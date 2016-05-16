@@ -1,0 +1,63 @@
+---
+title: "Untitled"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+pkg <- c("dplyr", "ggplot2", 
+  "knitr", "rmarkdown", "devtools", "DT")
+
+new.pkg <- pkg[!(pkg %in% installed.packages())]
+
+if(length(new.pkg))
+  install.packages(new.pkg, repos = "http://cran.rstudio.com")
+
+if(!require(izzyuntappd))
+  devtools::install_github("ismayc/untappd", force = TRUE)
+
+lapply(pkg, library, character.only = TRUE)
+options(width = 95, dplyr.print_max = 1e9)
+```
+
+We begin by loading in the dataset from this package.
+
+```{r load_data}
+data(untappd, package = "izzyuntappd")
+# I've also included the dataset as a CSV file and you can read it in by using
+# untappd <- read.csv(file = "chester_beer_feb15-may16.csv", header = TRUE,
+#     stringsAsFactors = FALSE)
+```
+
+Next we can look at the first few rows of this dataset:
+
+```{r glance}
+head(untappd)
+```
+
+We can determine what the mean and median `abv` values are from this data set:
+
+```{r central_tends}
+untappd %>% summarize(mean_abv = mean(abv), median_abv = median(abv))
+```
+
+We can also create a plot of this distribution of `abv`:
+
+```{r abv_plot}
+qplot(x = abv, data = untappd, geom = "histogram", bins = 20, color = I("white"))
+```
+
+If we'd like to see the top number of `style` of beer I've tried, sorted:
+
+```{r n_styles}
+style_count <- untappd %>% group_by(style) %>%
+  summarize(count = n()) %>%
+  arrange(desc(count))
+datatable(style_count)
+```
+
+The `datatable` function provides a nice interface for searching and sorting datasets.
+
+You can now get a sense for which styles of beer I prefer.  Think about how you could determine which style of beer I rated highest.  Play around with the data more to see which kinds of correlations and things stand out to you!
