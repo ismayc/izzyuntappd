@@ -1,0 +1,17 @@
+Package: izzyuntappd
+Type: Package
+Title: Datasets on Untappd beer ratings by Chester Ismay
+Version: 0.0.0.9000
+Authors@R: c(
+    person("Chester", "Ismay", email = "chester.ismay@gmail.com", role = "cre")
+    )
+Suggests:
+    ggplot2 (>= 2.0)
+Maintainer: Chester Ismay <chester.ismay@gmail.com>
+Description: Package of beer rating datasets corresponding to beer drank and rated by Chester Ismay.
+Depends: R (>= 3.0)
+License: CC0
+LazyData: TRUE
+RoxygenNote: 5.0.1
+URL: https://github.com/ismayc/izzyuntappd
+BugReports: https://github.com/ismayc/izzyuntappd/issues
