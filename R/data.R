@@ -31,7 +31,6 @@
 #' @examples
 #' data(untappd)
 #'
-
 "untappd"
-
+#> [1] "untappd"
 
