@@ -11,7 +11,7 @@ Suggests:
     readr (>= 0.2)
 Maintainer: Chester Ismay <chester.ismay@gmail.com>
 Description: Package of beer rating datasets corresponding to beer drank and rated by Chester Ismay.
-Depends: R (>= 3.0)
+Depends: R (>= 3.3)
 License: CC0
 LazyData: TRUE
 RoxygenNote: 5.0.1
