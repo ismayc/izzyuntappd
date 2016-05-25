@@ -35,3 +35,10 @@ data(package = "izzyuntappd")
 ```
 
 Currently only one...
+
+## R Markdown template
+
+Some basic analysis on this dataset is available as an R Markdown template.  You can get to this in RStudio via
+**File -> New File -> R Markdown -> From Template** and then select **Chester's Beer Analysis** as seen below.
+
+![Template Screenshot](screenshot.png)
