@@ -6,8 +6,7 @@
 \alias{izzyuntappd-package}
 \title{izzyuntappd: Datasets for Chester Ismay's Untappd beer ratings}
 \description{
-Package to load datasets from "Datasets for Mathematical Statistics
-with Resampling in R" (2011) by Laura Chihara and Tim Hesterberg.
+Package to load datasets from Chester Ismay's Untappd ratings
 }
 \section{Datasets}{
 
