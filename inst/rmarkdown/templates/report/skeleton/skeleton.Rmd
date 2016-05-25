@@ -16,7 +16,7 @@ if(length(new.pkg))
   install.packages(new.pkg, repos = "http://cran.rstudio.com")
 
 if(!require(izzyuntappd))
-  devtools::install_github("ismayc/untappd", force = TRUE)
+  devtools::install_github("ismayc/izzyuntappd", force = TRUE)
 
 lapply(pkg, library, character.only = TRUE)
 options(width = 95, dplyr.print_max = 1e9)
@@ -61,3 +61,16 @@ datatable(style_count)
 The `datatable` function provides a nice interface for searching and sorting datasets.
 
 You can now get a sense for which styles of beer I prefer.  Think about how you could determine which style of beer I rated highest.  Play around with the data more to see which kinds of correlations and things stand out to you!
+
+```{r}
+untappd %>% filter(brewery_state == "OR" | brewery_state == "WI") %>%
+#  group_by(brewery_state) %>%
+  summarize(med_rating = median(rating))
+```
+
+```{r test, R.options=list(max.print=10)}
+df <- data.frame(x=1:100,y=1:100)
+df
+```
+```
+

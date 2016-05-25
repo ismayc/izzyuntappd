@@ -3,6 +3,9 @@
 # Some location information deleted
 
 # untappd ----------------------------------------------------------------
-untappd <- read.csv(file = "data-raw/chester_beer_feb15-may16.csv", header = TRUE,
-     stringsAsFactors = FALSE)
+library(readr)
+library(dplyr)
+library(lubridate)
+untappd <- read_csv(file = "data-raw/chester_beer_feb15-may16.csv") %>%
+  mutate(date = mdy(date))
 devtools::use_data(untappd, overwrite = TRUE)

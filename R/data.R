@@ -15,6 +15,8 @@
 #'     \item{\code{ibu}} {an integer giving international bittering units scale value (when available)}
 #'     \item{\code{comment}} {a character string with comment entered by Chester after trying beer (not always available)}
 #'     \item{\code{rating}} {a numeric from 0.25 to 5 in increments of 0.25 (0.25 is worst and 5 is best)}
+#'     \item{\code{date}} {a date giving the day of the year rating was made}
+#'     \item{\code{brewery_country}} {a character string giving country of brewery}
 #'     \item{\code{brewery_city}} {a character string giving location of brewery}
 #'     \item{\code{brewery_state}} {a character string giving state/country/non-city information about brewery}
 #'   }
