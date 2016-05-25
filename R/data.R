@@ -6,7 +6,7 @@
 #' @name untappd
 #' @usage data(untappd)
 #' @format
-#'   A data frame with 565 observations (beers) on the following variables.
+#'   A data frame with 567 observations (beers) on the following variables.
 #'   \itemize{
 #'     \item{\code{beer_name}} {a character string with name of beer}
 #'     \item{\code{brewery}} {a character string with name of brewery}
