@@ -5,7 +5,6 @@
 # untappd ----------------------------------------------------------------
 library(readr)
 library(dplyr)
-library(lubridate)
 untappd <- read_csv(file = "data-raw/chester_beer_feb15-june16.csv")
 devtools::use_data(untappd, overwrite = TRUE)
 write_csv(untappd, 

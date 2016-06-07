@@ -8,8 +8,7 @@ Authors@R: c(
 Suggests:
     ggplot2 (>= 2.0),
     dplyr,
-    readr,
-    lubridate
+    readr
 Maintainer: Chester Ismay <chester.ismay@gmail.com>
 Description: Package of beer rating datasets corresponding to beer drank and
     rated by Chester Ismay.
