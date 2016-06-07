@@ -1,0 +1,606 @@
+beer_name,brewery,style,abv,ibu,comment,rating,brewery_country,brewery_city,brewery_state,date
+Nut Brown Ale,Goose Island Beer Co.,Brown Ale - English,5.2,25,Tasty nut brown in a bottle.,4,United States,Chicago,IL,2015-02-17
+Horicon Session IPA,Central Waters Brewing Company,IPA - Session / India Session Ale,4.5,30,Good low ABV IPA style.,4.5,United States,Amherst,WI,2015-02-17
+Oatmeal Stout,Gray's Brewing Company (WI),Stout - Oatmeal,5.2,25,Solid oatmeal stout.  Smooth and good flavor.,4.5,United States,Janesville,WI,2015-02-18
+Abbey,New Belgium Brewing Company,Belgian Dubbel,7,20,"Good Belgian beer, but I don't like Belgians as much as I used to.",3.5,United States,Fort Collins,CO,2015-02-18
+Limited Asylum: India Brown Ale,Ale Asylum,Brown Ale - American,7,0,Delicious!  Perfect balance of hoppiness and distinct brown ale flavor.,5,United States,Madison,WI,2015-02-19
+2° Below Winter Ale,New Belgium Brewing Company,Winter Ale,6.6,0,"Good malty, roasty winter ale",3.5,United States,Fort Collins,CO,2015-02-19
+Two Hearted Ale,Bell's Brewery,IPA - American,7,55,Maybe the best beer ever produced!,5,United States,Galesburg,MI,2015-02-20
+Cappuccino Stout,Lagunitas Brewing Company,Stout - American Imperial / Double,9,30,Great coffee flavor,4.5,United States,Petaluma,CA,2015-02-20
+Grapefruit Harvest IPA,Abita Brewing Company,IPA - American,6,40,Super grapefruity but tasty,4,United States,Abita Springs,LA,2015-02-20
+Big Butt Doppelbock,Jacob Leinenkugel Brewing Company,Doppelbock,5.8,14,Pretty decent dopplebock,3.5,United States,Chippewa Falls,WI,2015-02-22
+Ranger,New Belgium Brewing Company,IPA - American,6.5,70,A little bitter compared to the really good IPAs out there.,3,United States,Fort Collins,CO,2015-02-24
+Rampant,New Belgium Brewing Company,IPA - Imperial / Double,8.5,85,"Decent, but nothing stellar",3.5,United States,Fort Collins,CO,2015-02-25
+Honker's Ale,Goose Island Beer Co.,Extra Special / Strong Bitter,4.3,30,Lacking flavor compared to other good ales,3,United States,Chicago,IL,2015-02-25
+Dundee Honey Brown Lager,Dundee Ales & Lagers,Lager - American Amber / Red,4.5,10,Pretty bland,2.5,United States,Rochester,NY,2015-02-27
+Mudpuppy Porter,Central Waters Brewing Company,Porter - American,5.5,0,"Solid Porter, especially on nitro",4.5,United States,Amherst,WI,2015-03-01
+Glacial Trail IPA,Central Waters Brewing Company,IPA - American,6.5,65,Nothing special but pretty good,3.5,United States,Amherst,WI,2015-03-01
+Illumination Double IPA,Central Waters Brewing Company,IPA - Imperial / Double,9,108,Tasty Double IPA,4,United States,Amherst,WI,2015-03-01
+Brewhouse Coffee Stout,Central Waters Brewing Company,Stout - American,8.2,0,Excellent!,5,United States,Amherst,WI,2015-03-01
+Fat Tire,New Belgium Brewing Company,Red Ale - American Amber / Red,5.2,22,NA,3.5,United States,Fort Collins,CO,2015-03-01
+Ouisconsing Red Ale,Central Waters Brewing Company,Red Ale - American Amber / Red,5.2,0,Nothing spectacular but decent red,3,United States,Amherst,WI,2015-03-01
+Mojo IPA,Boulder Beer Company,IPA - American,7.2,70,A little bitter but not too shabby,3.5,United States,Boulder,CO,2015-03-02
+Fixed Gear,Lakefront Brewery,Red Ale - American Amber / Red,6.8,33,Good red + hoppy ale,4,United States,Milwaukee,WI,2015-03-04
+Creamy Dark,Jacob Leinenkugel Brewing Company,Lager - Black,4.9,20,Nothing special but it's pretty good,3.5,United States,Chippewa Falls,WI,2015-03-06
+Spiced Orange,John Crabbie & Co,Ginger Beer,4.8,0,Pretty tasty,4,Scotland,Glasgow,"City of Glasgow, G3 7QF",2015-03-07
+K-Town Brown,Public Craft Brewing Co.,Brown Ale - American,4.8,21,Pretty good brown,4,United States,Kenosha,WI,2015-03-18
+Permanent Funeral,3 Floyds Brewing Company,IPA - Imperial / Double,10.5,100,NA,4.5,United States,Munster,IN,2015-03-21
+Bourbon County Brand Stout,Goose Island Beer Co.,Stout - American Imperial / Double,15,60,NA,4.5,United States,Chicago,IL,2015-03-23
+Fresh Squeezed IPA,Deschutes Brewery,IPA - American,6.4,60,Beer-fection!  My favorite beer on the planet.,5,United States,Bend,OR,2015-03-26
+Road Slush,New Glarus Brewing Company,Stout - Oatmeal,6.2,0,NA,4,United States,New Glarus,WI,2015-03-26
+Lilja's Hell Hound Brown Ale,Pangaea Beer Company,Brown Ale - American,7,91,Decent,3.5,United States,Wisconsin Rapids,WI,2015-03-27
+Satin Solitude Imperial Stout,Central Waters Brewing Company,Stout - American Imperial / Double,8.5,0,NA,4,United States,Amherst,WI,2015-03-27
+Moose Drool Brown Ale,Big Sky Brewing Company,Brown Ale - American,5.1,0,NA,4.5,United States,Missoula,MT,2015-03-27
+Grapefruit Sculpin,Ballast Point Brewing & Spirits,IPA - American,7,70,Yum!,4.5,United States,San Diego,CA,2015-03-29
+Curmudgeon Old Ale (2014),Founders Brewing Co.,Old Ale,9.8,50,Funky,3,United States,Grand Rapids,MI,2015-03-29
+2X Stout (Double Milk Stout),Southern Tier Brewing Company,Stout - Milk / Sweet,7.5,40,Decent,3,United States,Lakewood,NY,2015-03-29
+Night Time Ale,Lagunitas Brewing Company,IPA - Black / Cascadian Dark Ale,8.2,65,Tasty IBA!,4,United States,Petaluma,CA,2015-03-30
+Polygamy Nitro Porter,Wasatch Brewery,Porter - American,6,0,I think the non-nitro is a little better.,3.5,United States,Park City,UT,2015-03-30
+KCCO Black Lager,Resignation Brewery,Lager - Black,5.1,22,NA,3.5,United States,Austin,TX,2015-03-31
+Mudpuppy Porter,Central Waters Brewing Company,Porter - American,5.5,0,Yum!  Grand opening of a new Fat Bruce's!,4.5,United States,Amherst,WI,2015-04-03
+Hop Henge Experimental IPA (2014),Deschutes Brewery,IPA - Imperial / Double,9.3,99,Yum!,5,United States,Bend,OR,2015-04-04
+Cocoa Mole (Lips of Faith),New Belgium Brewing Company,Chile Beer,9,20,Meh.  Way too much cinnamon.  A little too overpowering.,2.5,United States,Fort Collins,CO,2015-04-04
+Żywiec,Grupa Żywiec,Lager - Pale,5.6,0,Meh.  Pilsner.  Meh.,2,Poland,Żywiec,Śląskie,2015-04-04
+Longboard Island Lager,Kona Brewing Company,Lager - Pale,4.6,20,Pretty good for a lager,3.5,United States,Kailua-Kona,HI,2015-04-08
+Lilja's Sasquatch Stout,Pangaea Beer Company,Stout - American,7,0,NA,4,United States,Wisconsin Rapids,WI,2015-04-10
+Big Mountain Pale Ale,Alaskan Brewing Co.,Pale Ale - American,5.7,45,Hoppy and tasty,4,United States,Juneau,AK,2015-04-13
+Not Your Father's Root Beer (5.9%),Small Town Brewery,Root Beer,5.9,0,Refreshing and pretty tasty,4,United States,Wauconda,IL,2015-04-15
+Bigfoot (2014),Sierra Nevada Brewing Co.,Barleywine - American,9.6,90,My first barleywine style.  Not the shock I expected.  Pretty good.,3.5,United States,Chico,CA,2015-04-15
+Really Cool Waterslides IPA,3 Sheeps Brewing Company,IPA - American,6.2,60,NA,3.5,United States,Sheboygan,WI,2015-04-16
+Hopster,New Glarus Brewing Company,Hefeweizen,5.95,0,Decent for a wheat beer,3.5,United States,New Glarus,WI,2015-04-20
+Sculpin IPA,Ballast Point Brewing & Spirits,IPA - American,7,70,Excellent IPA,4.5,United States,San Diego,CA,2015-04-21
+Hopslam Ale,Bell's Brewery,IPA - Imperial / Double,10,70,"Smooth, hoppy, and delicious",4.5,United States,Galesburg,MI,2015-04-22
+Enigma (Thumbprint) (2015),New Glarus Brewing Company,Sour Ale,5.5,0,Meh.  Not a very good sour.,2,United States,New Glarus,WI,2015-04-23
+Red Chair NWPA,Deschutes Brewery,Pale Ale - American,6.2,60,Pretty good pale ale but nothing special.,3,United States,Bend,OR,2015-04-26
+Hog Heaven Barleywine,Avery Brewing Co.,Barleywine - American,9.2,104,Good barleywine.  Dry-hopped and pretty tasty.,3.75,United States,Boulder,CO,2015-04-28
+IPL,Jacob Leinenkugel Brewing Company,Lager - IPL (India Pale Lager),6,57,NA,3.75,United States,Chippewa Falls,WI,2015-04-30
+Black Jack Porter,Left Hand Brewing Company,Porter - English,6.8,35,Yum,4,United States,Longmont,CO,2015-04-30
+Grateful Red,"Capital Brewery Co., Inc.",IPA - American,5.3,65,NA,3.5,United States,Middleton,WI,2015-04-30
+16-Bit Double Pale Ale,Tallgrass Brewing Company,Pale Ale - American,6.2,55,NA,4,United States,Manhattan,KS,2015-04-30
+Illusive Traveler Grapefruit Shandy,Traveler Beer Co.,Radler,4.4,7,Very grapefruity but pretty refreshing,4.25,United States,Burlington,VT,2015-04-30
+Black Butte Porter,Deschutes Brewery,Porter - American,5.2,30,Yum!  One of my favorites,4.75,United States,Bend,OR,2015-05-01
+Chainbreaker White IPA,Deschutes Brewery,IPA - White,5.6,55,A little too wheaty,2.75,United States,Bend,OR,2015-05-02
+Obsidian Stout,Deschutes Brewery,Stout - American,6.4,55,Tasty stout,4.25,United States,Bend,OR,2015-05-03
+Green 19 IPA,Titletown Brewing Company,IPA - American,6.5,55,Missing a little citrus,3.5,United States,Green Bay,WI,2015-05-16
+Dark Helmet Schwartzbier,Titletown Brewing Company,Schwarzbier,5.5,25,Good dark beer,4,United States,Green Bay,WI,2015-05-16
+Busted Nut,Titletown Brewing Company,Blonde Ale - Belgian Blonde / Golden,8.5,0,NA,3,United States,Green Bay,WI,2015-05-16
+Mutiny IPA,"Capital Brewery Co., Inc.",IPA - American,6.2,70,Not very smooth with too much bitter kick,2.75,United States,Middleton,WI,2015-05-16
+Samuel Adams Summer Ale,Boston Beer Company (Samuel Adams),Pale Wheat Ale - American,5.3,7,NA,3,United States,Boston,MA,2015-05-21
+Pale Ale,Sierra Nevada Brewing Co.,Pale Ale - American,5.6,38,NA,3.5,United States,Chico,CA,2015-05-21
+Spotted Cow,New Glarus Brewing Company,Saison / Farmhouse Ale,5.1,0,"Meh.  When this is the best beer at a place, you have to know the food probably won't be good either.  Mediocre beer...",2.75,United States,New Glarus,WI,2015-05-22
+IPA,Lagunitas Brewing Company,IPA - American,6.2,46,Solid,4.25,United States,Petaluma,CA,2015-05-26
+Hop Hunter IPA,Sierra Nevada Brewing Co.,IPA - American,6.2,60,"Really, really hoppy.  Pretty good, but a little bitter.",3.75,United States,Chico,CA,2015-05-26
+Torpedo Extra IPA,Sierra Nevada Brewing Co.,IPA - American,7.2,65,"A little bitter, but pretty good",4,United States,Chico,CA,2015-05-28
+Turbodog,Abita Brewing Company,Brown Ale - English,5.6,28,Carmelly and dark tastiness,4.25,United States,Abita Springs,LA,2015-05-28
+Ace Pumpkin Cider,Ace Cider (The California Cider Company),Cider,5,0,NA,3.5,United States,Sebastopol,CA,2015-05-28
+Public Access IPA,Public Craft Brewing Co.,IPA - Session / India Session Ale,4.8,37,Not too shabby,4,United States,Kenosha,WI,2015-05-31
+Sweet Colleen's Irish Red,Public Craft Brewing Co.,Red Ale - Irish,5.3,17,Caramel tasty,4,United States,Kenosha,WI,2015-05-31
+Public Access Session IPA,Public Craft Brewing Co.,IPA - Session / India Session Ale,4.7,0,Almost flavorless,1.5,United States,Kenosha,WI,2015-05-31
+Openbaar Saison Farmhouse Ale,Public Craft Brewing Co.,Saison / Farmhouse Ale,5.1,21,Meh. Not a fan of this style.,2,United States,Kenosha,WI,2015-05-31
+Public Pale Ale,Public Craft Brewing Co.,Pale Ale - American,5,32,Tastes a lot like Mirror Pond Ale,3,United States,Kenosha,WI,2015-05-31
+Perception Porter,Public Craft Brewing Co.,Porter - Other,4.5,20,Pretty solid porter,3.75,United States,Kenosha,WI,2015-05-31
+pseudoSue,Toppling Goliath Brewing,Pale Ale - American,5.8,50,Stellar!,4.5,United States,Decorah,IA,2015-06-05
+Golden Nugget IPA,Toppling Goliath Brewing,IPA - American,6.3,56,Solid IPA,4,United States,Decorah,IA,2015-06-05
+Smoove Opferator,Toppling Goliath Brewing,Brown Ale - American,5.5,50,Really strong brown flavor,4,United States,Decorah,IA,2015-06-05
+Rover Truck,Toppling Goliath Brewing,Stout - Oatmeal,5.7,35,Wow!  Delicious and smooth,4.5,United States,Decorah,IA,2015-06-05
+Furious,Surly Brewing Company,IPA - American,6.6,100,NA,4.25,United States,Minneapolis,MN,2015-06-06
+Double M.A.C.,Widmer Brothers Brewing,IPA - Session / India Session Ale,4.8,50,NA,4,United States,Portland,OR,2015-06-20
+Buoy 8 Strong,Astoria Brewing Co.,Strong Ale - English,7.2,0,NA,3.75,United States,Astoria,OR,2015-06-22
+Brutal India Pale Ale,Rogue Ales & Spirits,IPA - American,6,46,Very smooth,4.5,United States,Newport,OR,2015-06-22
+Hazelnut Brown Nectar,Rogue Ales & Spirits,Brown Ale - American,5.6,33,Near perfection!,4.75,United States,Newport,OR,2015-06-24
+Bengali Tiger,Sixpoint Brewery,IPA - American,6.4,62,NA,4,United States,Brooklyn,NY,2015-06-24
+Castaway IPA,Kona Brewing Company,IPA - American,6,65,NA,3.75,United States,Kailua-Kona,HI,2015-06-26
+North Coast Red Pacific Ale,Seaside Brewing Company,Red Ale - American Amber / Red,6.98,59,NA,3.5,United States,Seaside,OR,2015-06-29
+Stormcrow Stout,Seaside Brewing Company,Stout - Other,6.6,38,NA,3.25,United States,Seaside,OR,2015-06-29
+Fire Rock Pale Ale,Kona Brewing Company,Pale Ale - American,6,35,Caramelly and tasty,4,United States,Kailua-Kona,HI,2015-06-30
+Blood Orange Rustler IPA,Payette Brewing Co.,IPA - American,6.2,65,Starts with a slight orange flavor and ends with a lot of bitter hops,3.5,United States,Garden City,ID,2015-07-01
+La Chouffe,Brasserie d'Achouffe,Blonde Ale - Belgian Blonde / Golden,8,20,NA,3.75,Belgium,Achouffe,Luxembourg,2015-07-01
+Brown Porter,Waltz Brewing,Porter - Other,0,0,Yum!,4.5,United States,Forest Grove,OR,2015-07-02
+Little Bitter,Waltz Brewing,IPA - Session / India Session Ale,3.5,30,"A little too mild, but not bad for 3.5% ABV.",3.25,United States,Forest Grove,OR,2015-07-02
+Blueberry Berliner Weisse,Snipes Mountain Brewing,Fruit Beer,4,5,Not quite as much flavor as I would have liked.  Sour but the flavor just isn't there.,3,United States,Sunnyside,WA,2015-07-02
+Weihenstephaner Original,Bayerische Staatsbrauerei Weihenstephan,Lager - Helles,5.1,21,Not bad for a lager,3.5,Germany,Freising,Bayern,2015-07-04
+442 Nice Lady Ale,Lompoc Brewing,Pale Ale - American,4.8,0,Solid,4,United States,Portland,OR,2015-07-04
+Fish Tale Vicious Circle,Fish Brewing Company,Red Ale - American Amber / Red,5,35,NA,3.5,United States,Olympia,WA,2015-07-05
+Blackcat Porter,Mac & Jack's Brewing Company,Porter - American,4.8,0,NA,4,United States,Redmond,WA,2015-07-05
+African Amber,Mac & Jack's Brewing Company,Red Ale - American Amber / Red,5.6,0,NA,3.5,United States,Redmond,WA,2015-07-05
+Pinedrops IPA,Deschutes Brewery,IPA - American,6.5,70,Piney and tasty,4.25,United States,Bend,OR,2015-07-06
+Citrus Mistress IPA,Hop Valley Brewing Company,IPA - American,6.5,80,Love the grapefruit flavors of this one,4.5,United States,Eugene,OR,2015-07-07
+The Immortal IPA,Elysian Brewing,IPA - English,6.3,54,NA,3.75,United States,Seattle,WA,2015-07-08
+Boont Amber Ale,Anderson Valley Brewing Company,Red Ale - American Amber / Red,5.8,15,"Nice summer beer.  Lacking a little in flavor, but mild and pretty good.",3.75,United States,Boonville,CA,2015-07-09
+Easy Black IPA,10 Barrel Brewing Co.,IPA - Black / Cascadian Dark Ale,5.1,65,Session IBA!  Awesome for summer!,4,United States,Bend,OR,2015-07-10
+Schonz Red Session Ale,Pyramid Breweries,Red Ale - American Amber / Red,4.8,30,NA,3.25,United States,Seattle,WA,2015-07-11
+Black Butte Porter,Deschutes Brewery,Porter - American,5.2,30,Still one of my favorites!,4.75,United States,Bend,OR,2015-07-11
+Outburst Imperial IPA,Pyramid Breweries,IPA - Imperial / Double,8.5,80,Lots of flavor on this one.  One strong beer.,4,United States,Seattle,WA,2015-07-11
+Grapefruit Shandy,Jacob Leinenkugel Brewing Company,Radler,4.2,14,"Meh.  It's better than the other Leinie shandies, but the ""fruit"" flavor is still too fake for my tastes.",3,United States,Chippewa Falls,WI,2015-07-12
+Hop Smack,Cascade Lakes Brewing Company,IPA - American,6.4,82,NA,3,United States,Redmond,OR,2015-07-13
+Conviction Pale Ale,BridgePort Brewing Co.,Pale Ale - American,5.2,40,Thought the flavors were a little off,2.5,United States,Portland,OR,2015-07-16
+Drop Top Amber,Widmer Brothers Brewing,Red Ale - American Amber / Red,5,0,Smooth and slightly nutty,4,United States,Portland,OR,2015-07-16
+Gigantic IPA,Gigantic Brewing Company,IPA - American,7.3,85,That's good. That's mighty good.,4.5,United States,Portland,OR,2015-07-17
+Fruit Salad Cider,Rogue Ales & Spirits,Cider,6.4,0,NA,3,United States,Newport,OR,2015-07-18
+Cold Brew IPA,Rogue Ales & Spirits,IPA - American,7.5,82,"What an idea.  The flavors don't quite mesh, but it's pretty good.",3.5,United States,Newport,OR,2015-07-18
+Fresh Roast,Rogue Ales & Spirits,Brown Ale - American,5.7,37,Lots of German style here,4,United States,Newport,OR,2015-07-18
+7-Hop Cider,Rogue Ales & Spirits,Cider,6.9,0,Extra tart and a subtle hop flavor,3,United States,Newport,OR,2015-07-18
+American Amber Ale,Rogue Ales & Spirits,Red Ale - American Amber / Red,5.3,53,Extra malty but pretty smooth,3.5,United States,Newport,OR,2015-07-18
+Pamplemousse Citrus IPA,Lompoc Brewing,IPA - American,5.8,70,"Good, but not as citrusy as I like.",3.5,United States,Portland,OR,2015-07-21
+Profanity Hill Porter,Schooner Exact Brewing Company,Porter - Other,5.5,33,Excellent flavors,4.5,United States,Seattle,WA,2015-07-23
+Kiwanda Cream Ale,Pelican Brewing Company,Cream Ale,5.4,25,The best cream ale I have had.  Smooth and easy to drink with good flavor.,3.5,United States,Pacific City,OR,2015-07-26
+American Pale Ale,Knuth Brewing Company,Pale Ale - American,6,40,Needs more flavor.  Flattens out when I expected more hoppy taste.,2.5,United States,Ripon,WI,2015-08-01
+Spotted Cow,New Glarus Brewing Company,Saison / Farmhouse Ale,5.1,0,Likely my last Spotted Cow for a very long time.  For some reason it actually tastes pretty good today.,3.25,United States,New Glarus,WI,2015-08-02
+Downtown Brown,Pearl Street Brewery (Wisconsin),Brown Ale - English,5.5,0,Yum!,4,United States,LaCrosse,WI,2015-08-03
+Grapefruit Sculpin,Ballast Point Brewing & Spirits,IPA - American,7,70,Still great!,4.5,United States,San Diego,CA,2015-08-03
+Summer Ale,Summit Brewing Company,Kölsch,4.9,32,Decent summer beer,3,United States,St. Paul,MN,2015-08-05
+Wild Blue,Anheuser-Busch,Fruit Beer,8,0,NA,3.75,United States,St. Louis,MO,2015-08-05
+Fresh Bongwater Pale Ale,Kettlehouse Brewing Company,Pale Ale - American,5,0,My first hemp ale.  Not too shabby.,3.5,United States,Missoula,MT,2015-08-07
+River Session IPA,Kettlehouse Brewing Company,IPA - American,4.6,0,Meh.  Sessions are never as good as the real thing.,2.75,United States,Missoula,MT,2015-08-07
+Up 'n Smoke Porter,Kettlehouse Brewing Company,Smoked Beer,5.5,0,Smoked beers are an acquired taste that I do not have.,2.5,United States,Missoula,MT,2015-08-07
+Double Haul IPA,Kettlehouse Brewing Company,IPA - English,6.5,65,Solid English IPA.,4,United States,Missoula,MT,2015-08-07
+Orbiter IPA,Ecliptic Brewing,IPA - American,7.4,75,Delicious!,4.25,United States,Portland,OR,2015-08-09
+Capella Porter,Ecliptic Brewing,Porter - Other,5.2,39,Roasty and tasty,4.25,United States,Portland,OR,2015-08-09
+Phobos Single Hop Red Ale,Ecliptic Brewing,Red Ale - American Amber / Red,5.6,34,NA,4,United States,Portland,OR,2015-08-09
+Sagittarius B2N,Ecliptic Brewing,Saison / Farmhouse Ale,7,36,Overwhelming Belgian flavor,2.75,United States,Portland,OR,2015-08-09
+Hypernova Triple IPA,Ecliptic Brewing,IPA - Triple,12,88,Bam!  That's one strong IPA.,4,United States,Portland,OR,2015-08-09
+Spica Pilsner,Ecliptic Brewing,Pilsner - Other,5.5,38,Good flavor for a pilsner,3.5,United States,Portland,OR,2015-08-09
+Pilsner,Breakside Brewery,Pilsner - German,5.2,35,Solid summer beer,3.5,United States,Portland,OR,2015-08-10
+Dry Stout,Breakside Brewery,Stout - American,4.1,0,NA,4,United States,Portland,OR,2015-08-10
+Wanderlust IPA,Breakside Brewery,IPA - American,6.7,50,NA,4,United States,Portland,OR,2015-08-10
+India Golden Ale,Breakside Brewery,IPA - Imperial / Double,8.1,80,Just the right amount of fruity hints,4.5,United States,Portland,OR,2015-08-10
+Imperial Red,Breakside Brewery,Red Ale - Imperial / Double,8.1,93,NA,4,United States,Portland,OR,2015-08-10
+ESB,Breakside Brewery,Extra Special / Strong Bitter,6.2,0,NA,3.5,United States,Portland,OR,2015-08-10
+Helix Hoppy Lager,Ecliptic Brewing,Lager - IPL (India Pale Lager),5.8,55,Best lager out there!,4.25,United States,Portland,OR,2015-08-11
+IPA,Portland Brewing,IPA - American,6.5,70,NA,3,United States,Portland,OR,2015-08-13
+Kilmister's Pub Draught,McMenamins,English Bitter,4.13,36,NA,3,United States,Portland,OR,2015-08-14
+Workhorse IPA,Laurelwood Brewing Co.,IPA - American,7.5,80,Piney and subtley citrusy.  Excellent IPA with good hoppy and malty balance.,4.25,United States,Portland,OR,2015-08-14
+Hopsation,Woodchuck Cidery,Cider,5,0,Refreshing and nice balance with the hops and the apple flavor,4,United States,Middlebury,VT,2015-08-15
+Ramblers Amber Ale,Waltz Brewing,Red Ale - American Amber / Red,0,0,Roasty,4,United States,Forest Grove,OR,2015-08-15
+VIP Vanilla Infused Porter,Hop Valley Brewing Company,Porter - American,5.9,50,One of the best porters I have had.  Smooth and nice vanilla flavor.,4.5,United States,Eugene,OR,2015-08-16
+1554,New Belgium Brewing Company,Lager - Black,5.6,21,"This beer is excellent anytime.  Great nutty, smooth flavor.  One of my favorite beers.",4.75,United States,Fort Collins,CO,2015-08-17
+Gose the Gozerian,Laurelwood Brewing Co.,Gose,4.5,7,NA,4,United States,Portland,OR,2015-08-21
+Mother Lode Golden Ale,Laurelwood Brewing Co.,Golden Ale,5.1,25,NA,3.75,United States,Portland,OR,2015-08-21
+Free Range Red,Laurelwood Brewing Co.,Red Ale - American Amber / Red,6.2,60,NA,4.25,United States,Portland,OR,2015-08-21
+Red Elephant IRA,Laurelwood Brewing Co.,IPA - American,7,70,NA,3.5,United States,Portland,OR,2015-08-21
+Deranger Imperial Red,Laurelwood Brewing Co.,Red Ale - Imperial / Double,8.6,0,NA,4.25,United States,Portland,OR,2015-08-21
+Tree Hugger Porter,Laurelwood Brewing Co.,Porter - American,5.8,45,NA,4.25,United States,Portland,OR,2015-08-21
+Sapporo Premium Lager,Sapporo Breweries,Lager - Japanese Rice,4.7,0,NA,2.5,Japan,Shibuya-ku,Tokyo,2015-08-21
+Creekside Cranberry Perry,Bull Run Cider,Cider,5.5,0,NA,3.75,United States,Forest Grove,OR,2015-08-22
+Perry Pear Cider,Bull Run Cider,Cider,0,0,NA,3.5,United States,Forest Grove,OR,2015-08-22
+Twilight Summer Ale,Deschutes Brewery,Pale Ale - American,5,35,Pretty good.  Definitely tastes like a summer ale with a little more hop than most others.,3.75,United States,Bend,OR,2015-08-23
+Black Toad,Trader Joe's (JosephsBrau),Brown Ale - American,5.3,0,"Roasty, caramelly, and pretty smooth.  Extremely dark pour.",3.75,United States,San Jose,CA,2015-08-23
+JosephsBrau Dunkelweizen,Trader Joe's (JosephsBrau),Dunkelweizen,5.2,18,NA,3.25,United States,San Jose,CA,2015-08-24
+Oktoberfest - Brauhaus Riegele (2015),Sierra Nevada Brewing Co.,Märzen,6,30,First one of the season.  Not too shabby.,4,United States,Chico,CA,2015-08-25
+Inversion IPA,Deschutes Brewery,IPA - American,6.8,80,NA,4,United States,Bend,OR,2015-08-26
+Armored Fist CDA,Boneyard Beer Company,IPA - Imperial / Double Black,10,80,Citrusy black deliciousness,4.5,United States,Bend,OR,2015-08-27
+Becky's Black Cat,Seven Brides Brewing,Porter - Other,7,0,NA,3.75,United States,Silverton,OR,2015-08-28
+Stone IPA,Stone Brewing,IPA - American,6.9,77,One of the best IPAs out there!,4.5,United States,Escondido,CA,2015-08-30
+Asahi Super Dry,Asahi Breweries,Lager - Japanese Rice,5,16,Tasty with delicious sushi,3.75,Japan,Sumida-ku,Tokyo,2015-09-01
+Fish Tale Vicious Circle,Fish Brewing Company,Red Ale - American Amber / Red,5,35,NA,4,United States,Olympia,WA,2015-09-02
+Apricot Ale,Pyramid Breweries,Fruit Beer,5.1,11,Tasty as always,4.25,United States,Seattle,WA,2015-09-04
+Fuzzy Haven,Fox-Tail Cider,Cider,6.2,0,"Decent cider, but lacks peach flavor",3,United States,Hood River,OR,2015-09-05
+Holy Water(melon),Reverend Nat's Hard Cider,Cider,4.3,0,Unique. Cucumber start and watermelon finish.,4,United States,Portland,OR,2015-09-05
+Strawberry Blonde,Astoria Brewing Co.,Fruit Beer,6.1,10,Really lacking strawberry flavor,2,United States,Astoria,OR,2015-09-05
+Punkin Ale,Dogfish Head Craft Brewery,Pumpkin / Yam Beer,7,28,Tis the season,3.75,United States,Milton,DE,2015-09-05
+Damon Stoutamire,Ex Novo Brewing,Stout - American,6.5,57,"Wow, that is a strong stout!",3.5,United States,Portland,OR,2015-09-05
+Wookey Jack,Firestone Walker Brewing Company,IPA - Black / Cascadian Dark Ale,8.3,80,Excellent black IPA,4.25,United States,Paso Robles,CA,2015-09-05
+Fruit of the Garden of Good & Evil,Burnside Brewing Co. (Oregon),Fruit Beer,4.5,0,"Good, but a little too spicy on the end for my tastes",3.5,United States,Portland,OR,2015-09-06
+Toasted Coconut Chocolate Porter,Caldera Brewing Company,Porter - American,6.2,24,Yum!  Great flavor and smooth,4.5,United States,Ashland,OR,2015-09-06
+Stone Coffee Milk Stout,Stone Brewing,Stout - Milk / Sweet,5,40,NA,4.25,United States,Escondido,CA,2015-09-06
+Chocolate Stout,Rogue Ales & Spirits,Stout - American,5.8,69,NA,4,United States,Newport,OR,2015-09-07
+Arctic Blast Vanilla Porter,Vertigo Brewing,Porter - American,5.8,0,Tasty!,4.25,United States,Hillsboro,OR,2015-09-11
+"20"" Brown",Cascade Lakes Brewing Company,Brown Ale - American,5.3,35,NA,4,United States,Redmond,OR,2015-09-14
+CoCoNut PorTeR,Maui Brewing Company,Porter - American,6,30,One of my favorites,4.75,United States,"Lahaina, Maui",HI,2015-09-15
+Strawberry Fields,Bull Run Cider,Cider,6.5,0,Summer seasonal.  Delicious!!!,4.5,United States,Forest Grove,OR,2015-09-17
+Anthem Cherry,Wandering Aengus Ciderworks,Cider,6.2,0,NA,4,United States,Salem,OR,2015-09-17
+Gigantic IPA,Gigantic Brewing Company,IPA - American,7.3,85,NA,4.5,United States,Portland,OR,2015-09-18
+1811 Lager,Fort George Brewery,Lager - North American Adjunct,5.1,0,Hoppy for a lager.  Not too bad.,3.5,United States,Astoria,OR,2015-09-19
+Quick Wit,Fort George Brewery,Witbier,5.5,0,Good for a Belgian.  Not my style though.,3.25,United States,Astoria,OR,2015-09-19
+Sunrise Oatmeal Pale Ale,Fort George Brewery,Pale Ale - American,5.2,0,Interesting oaty flavors mixed with hoppiness,3.75,United States,Astoria,OR,2015-09-19
+The Optimist,Fort George Brewery,IPA - American,6.2,50,"Big time hoppy flavors, but not too bitter",4,United States,Astoria,OR,2015-09-19
+Vortex IPA,Fort George Brewery,IPA - American,7.7,97,I can see why it's their flagship.  Great flavors!,4.5,United States,Astoria,OR,2015-09-19
+Working Girl Porter,Fort George Brewery,Porter - American,4.6,30,Strong flavors.  Almost more like a stout.  Still tasty though.,4.25,United States,Astoria,OR,2015-09-19
+Cavatica Stout,Fort George Brewery,Stout - American,8.8,0,A little too bitter for my tastes,2.75,United States,Astoria,OR,2015-09-19
+North VII,Fort George Brewery,IPA - Belgian,9,0,"If I liked Belgians, I would like this.",3,United States,Astoria,OR,2015-09-19
+3-Way IPA (2015),Fort George Brewery,IPA - American,5.7,70,NA,3.5,United States,Astoria,OR,2015-09-19
+Plaid Scotch Ale,Fort George Brewery,Scotch Ale / Wee Heavy,7,0,"The best scotch ale I have ever had, still strange though.",3.25,United States,Astoria,OR,2015-09-19
+The Road To Rye,Fort George Brewery,Rye Beer / Rye IPA,6,0,Missing a little flavor compared to their other IPAs but decent for a RyePA.,3,United States,Astoria,OR,2015-09-19
+"Anni, Are You Oak-Aged?",Fort George Brewery,Scotch Ale / Wee Heavy,9.7,0,Meh.  All I taste is whiskey.,2.5,United States,Astoria,OR,2015-09-19
+Squashed Stout,Fort George Brewery,Stout - Other,6.7,0,Interesting squash flavor.  Tastes more like a porter than a stout.,4.25,United States,Astoria,OR,2015-09-19
+Eruption Imperial Red,Worthy Brewing,Red Ale - Imperial / Double,8,100,"Wow, that's an excellent red!",4.5,United States,Bend,OR,2015-09-21
+Kick Axe Pale Ale,Lompoc Brewing,Pale Ale - American,5.2,40,NA,4.25,United States,Portland,OR,2015-09-21
+Stout,Cerveza Ave Negra,Dark Ale,5,0,Excellent dark ale from Argentina!,4.25,Argentina,NA,NA,2015-09-23
+Harvest Patch Shandy,Jacob Leinenkugel Brewing Company,Pumpkin / Yam Beer,4.2,11,Why do I continue to try these Leinie shandies...? Always mediocre.,1.75,United States,Chippewa Falls,WI,2015-09-25
+Loser Pale Ale,Elysian Brewing,Pale Ale - American,7,50,A little too malty for me,3,United States,Seattle,WA,2015-09-26
+Summer Honey,Angry Orchard Cider Company,Cider,5,0,Good lingering honey flavor,4,United States,Cincinnati,OH,2015-09-27
+Seasonal Release Oktoberfest,Ninkasi Brewing Company,Märzen,5.9,25,First o-fest of the year and it's mighty tasty!,4.25,United States,Eugene,OR,2015-09-28
+Rauchbier,Cerveza Artesanal Reina Serrana,Rauchbier,4.5,0,By far the worst beer I have ever tried.  Smoked beers are gross.,0.25,Argentina,Sierra de La Ventana,Buenos Aires,2015-09-29
+Night Owl Pumpkin Ale,Elysian Brewing,Pumpkin / Yam Beer,5.9,0,The best pumpkin ale I have had (non-Porter),3.75,United States,Seattle,WA,2015-09-29
+Pumpkin Wheat,Shock Top Brewing Co.,Pumpkin / Yam Beer,5.1,0,Very little flavor,2,United States,St Louis,MO,2015-09-30
+Quilter's Irish Death,Iron Horse Brewery,Strong Ale - American,7.8,0,Tasty dark ale!,4.25,United States,Ellensburg,WA,2015-10-01
+Pumpkin Ale,Laurelwood Brewing Co.,Pumpkin / Yam Beer,7.5,25,Good flavors and nice pumpkin flavor,4,United States,Portland,OR,2015-10-04
+Hop Stout (Hop Kitchen #10),New Belgium Brewing Company,Stout - Imperial / Double,8,100,Tasty dark IPA/stout hybrid,4.25,United States,Fort Collins,CO,2015-10-05
+GravensTime,Lagunitas Brewing Company,Fruit Beer,5.8,0,Cider/IPA hybrid.  Good stuff.,3.75,United States,Petaluma,CA,2015-10-05
+Vlad The Imp Aler,Cascade Brewing Company (USA),American Wild Ale,10.3,0,NA,4.25,United States,Portland,OR,2015-10-06
+Apricot Ale (2014),Cascade Brewing Company (USA),Sour Ale,7.6,0,Yum!,4.5,United States,Portland,OR,2015-10-06
+Cranberry (2014),Cascade Brewing Company (USA),Sour Ale,8.2,0,NA,2,United States,Portland,OR,2015-10-06
+Blueberry,Cascade Brewing Company (USA),American Wild Ale,7.33,0,NA,4.25,United States,Portland,OR,2015-10-06
+Blackcap Raspberry (2015),Cascade Brewing Company (USA),American Wild Ale,7.56,0,NA,4.25,United States,Portland,OR,2015-10-06
+Black Bear XX,Alameda Brewing Co.,Stout - Foreign / Export,7,0,NA,4,United States,Portland,OR,2015-10-08
+Evil Twin,Heretic Brewing Company,Red Ale - Imperial / Double,6.8,45,"A little flat, but good reddish flavors.",3.5,United States,Fairfield,CA,2015-10-10
+Wholesome Apple,Swift Cider,Cider,6,0,"Nice, crisp apple.  Not too sweet.",4,United States,Portland,OR,2015-10-10
+Evil Harvest,Crooked Fence Brewing,Pumpkin / Yam Beer,6,0,Meh.  It's OK.  Not much pumpkin flavor.,2.75,United States,Garden City,ID,2015-10-10
+Original Amber Ale,Oakshire Brewing,Red Ale - American Amber / Red,5.4,24,Decent,3.75,United States,Eugene,OR,2015-10-12
+Opal S.A.S.H. Cider,Cider Riot,Cider,6.9,0,Strange flavor,2,United States,Portland,OR,2015-10-14
+Strawberry Fields,Bull Run Cider,Cider,6.5,0,One of best ciders I've had!,4.75,United States,Forest Grove,OR,2015-10-14
+Pomegranate Cider,Two Rivers Cider Company,Cider,6.5,0,Awesome color and pom flavor,4,United States,Sacramento,CA,2015-10-14
+Tart Apple,Bull Run Cider,Cider,0,0,It's just a tester.  Decent but not spectacular.,2.25,United States,Forest Grove,OR,2015-10-14
+Pinup Porter,Southern Oregon Brewing (SOB),Porter - Other,5.5,30,"Decent flavor, but it is really lacking on carbonation",3.25,United States,Medford,OR,2015-10-23
+Nukin' Futz,Track 7 Brewing Company,Porter - American,7.3,0,Peanut butter roasty delicious,4.25,United States,Sacramento,CA,2015-10-24
+1763 West Country,Cider Riot,Cider,6.9,0,Gross,1.25,United States,Portland,OR,2015-10-24
+Salted Caramel Brownie Brown Ale,New Belgium Brewing Company,Brown Ale - American,6.3,14,Not too sweet.  Great brown ale.,4.5,United States,Fort Collins,CO,2015-10-26
+Vinter Varmer,Laurelwood Brewing Co.,Winter Ale,6.4,49,"Good, but it's missing some roasty flavor",3.75,United States,Portland,OR,2015-10-27
+Paddle Board Porter,Cascade Lakes Brewing Company,Porter - American,5.4,34,Tasty nutty flavors.  A little rich at the end but still a good porter.,4,United States,Redmond,OR,2015-10-28
+Organic Porter,Eel River Brewing Co.,Porter - American,5.8,19,"Solid.  Nothing special, but a good porter.",3.5,United States,Fortuna,CA,2015-10-29
+Overcast Espresso Stout,Oakshire Brewing,Stout - Other,5.8,37,Wow.  That is an incredible coffee stout!,4.75,United States,Eugene,OR,2015-10-31
+Breakfast Porter,Terminal Gravity Brewing (TG),Porter - American,5.7,40,Interesting hoppy and roasty flavors,4,United States,Enterprise,OR,2015-11-01
+Cinnamon Horchata Ale,Blue Moon Brewing Company,Herbed / Spiced Beer,5.5,25,"Excellent cinnamon flavors.  Not much rice milk flavor, but that might be a good sign for a beer.",4.25,United States,Denver,CO,2015-11-02
+Chai Spiced Ale,Blue Moon Brewing Company,Herbed / Spiced Beer,5.4,0,A little too heavy on the spices,3,United States,Denver,CO,2015-11-05
+White IPA,Blue Moon Brewing Company,IPA - White,5.9,45,"Nothing special, but not too shabby",3,United States,Denver,CO,2015-11-06
+IRA,Double Mountain Brewery & Taproom,IPA - American,6.5,65,Pretty good.  Needs a little more red/malty flavor.,3.5,United States,Hood River,OR,2015-11-07
+S'more Stout,Base Camp Brewing Company,Stout - American,7.7,70,NA,4,United States,Portland,OR,2015-11-07
+New Wave Amber,Base Camp Brewing Company,Lager - American Amber / Red,5.6,20,NA,4,United States,Portland,OR,2015-11-07
+Envy (7 Deadly Sins),Reverend Nat's Hard Cider,Cider,10.2,85,Huge apple flavor followed by straight booze tastes and then a little hops to finish.,4.5,United States,Portland,OR,2015-11-08
+Black Widow Porter,McMenamins,Porter - American,7.35,38,NA,4.25,United States,Portland,OR,2015-11-08
+Ruby,McMenamins,Fruit Beer,4,5,Tasty raspberry ale,4,United States,Portland,OR,2015-11-08
+Pumpkin Ale,Laurelwood Brewing Co.,Pumpkin / Yam Beer,7.5,25,Solid,4,United States,Portland,OR,2015-11-13
+Fall Saison,Laurelwood Brewing Co.,Saison / Farmhouse Ale,6.4,25,Mighty hoppy saison.  Pretty good.,3.5,United States,Portland,OR,2015-11-13
+Space Stout,Laurelwood Brewing Co.,Stout - Other,6.5,0,"Great coffee, chocolate, and roasty flavors",4.5,United States,Portland,OR,2015-11-13
+Anchor Steam Beer,Anchor Brewing Company,California Common,4.8,35,Not too shabby,3.5,United States,San Francisco,CA,2015-11-13
+Ace Pineapple Cider,Ace Cider (The California Cider Company),Cider,5,0,Delicious!,4.5,United States,Sebastopol,CA,2015-11-14
+Double Chocolate Stout,Rogue Ales & Spirits,Stout - American Imperial / Double,8.8,68,Perfect chocolate flavor,5,United States,Newport,OR,2015-11-14
+Hazelnut Brown Nectar,Rogue Ales & Spirits,Brown Ale - American,5.6,33,So good on tap,5,United States,Newport,OR,2015-11-14
+Mocha Porter,Rogue Ales & Spirits,Porter - American,5.3,54,Decent,3,United States,Newport,OR,2015-11-14
+Fresh Roast Brown Ale,Issaquah Brew House (Rogue Ales),Brown Ale - Belgian,0,0,Excellent brown,4.5,United States,Issaquah,WA,2015-11-14
+American Amber Ale,Rogue Ales & Spirits,Red Ale - American Amber / Red,5.3,53,NA,3.75,United States,Newport,OR,2015-11-14
+Rogue Farms OREgasmic Ale,Rogue Ales & Spirits,Pale Ale - American,6.6,77,Roasty and excellently malty,4.5,United States,Newport,OR,2015-11-15
+Shakespeare Oatmeal Stout,Rogue Ales & Spirits,Stout - Oatmeal,6,69,Tasty on nitro,4.25,United States,Newport,OR,2015-11-15
+Yellow Snow IPA,Rogue Ales & Spirits,IPA - American,6.6,82,"Tons of hops, interesting taste",4,United States,Newport,OR,2015-11-15
+XS Russian Imperial Stout,Rogue Ales & Spirits,Stout - Russian Imperial,11,88,"Wow, that's a strong stout",4.25,United States,Newport,OR,2015-11-15
+Vina,21st Amendment Brewery,Blonde Ale - Belgian Blonde / Golden,5.4,10,Tasty easy-drinking Belgian,4,United States,San Francisco,CA,2015-11-16
+Dr Frudi,21st Amendment Brewery,Pale Ale - American,5.6,35,Classic hoppy pale,4,United States,San Francisco,CA,2015-11-16
+Bruges Rouge,21st Amendment Brewery,Other,6.9,65,Tasty IRA.  Not too much Belgian flavor.,4.25,United States,San Francisco,CA,2015-11-16
+Kriek Forte D'Or,21st Amendment Brewery,Belgian Strong Pale Ale,9.5,26,"Still don't like strong Belgians.  If I did, I would probably like this.",3,United States,San Francisco,CA,2015-11-16
+Brew Free! or Die IPA,21st Amendment Brewery,IPA - American,7,70,Hoppy and tasty,4,United States,San Francisco,CA,2015-11-16
+Drunken Monk Ale,21st Amendment Brewery,Belgian Strong Dark Ale,9.3,37,Way too much Belgian here,2,United States,San Francisco,CA,2015-11-16
+Punkuccino Coffee Pumpkin Ale (2015),Elysian Brewing,Pumpkin / Yam Beer,5,0,NA,4.25,United States,Seattle,WA,2015-11-18
+Salted Caramel Brownie Brown Ale,New Belgium Brewing Company,Brown Ale - American,6.3,14,Even better on tap!,4.75,United States,Fort Collins,CO,2015-11-18
+Cinnamon Pear Cider,Atlas Cider Company,Cider,8.5,0,Sweet and delicious,4.75,United States,Bend,OR,2015-11-18
+I Like My Sugar With Coffee & Cream,Ex Novo Brewing,Cream Ale,4.5,15,Meh.  A little bland.,3,United States,Portland,OR,2015-11-18
+Winter Abbey Spice,Reverend Nat's Hard Cider,Cider,7.4,0,Big cinnamon flavors and can taste the alcohol in a subtle and excellent way,4.75,United States,Portland,OR,2015-11-18
+Imperial Black Ipa,Culmination Brewery,Dark Ale,5,0,Hoppy and smooth imperial IBA,4.25,United States,Portland,OR,2015-11-18
+Kölsch,Double Mountain Brewery & Taproom,Kölsch,5.2,40,Solid German brew,4,United States,Hood River,OR,2015-11-21
+Belgian White,Blue Moon Brewing Company,Witbier,5.4,9,"A little sweet, but not terrible.  Amazing this used to be my go-to beer.",2.75,United States,Denver,CO,2015-11-22
+Noir,Ninkasi Brewing Company,Stout - Milk / Sweet,7.6,60,"Excellent coffee, cream, and chocolate flavors",4.5,United States,Eugene,OR,2015-11-26
+'Alalā Hawaiian Crow Porter,Mehana Brewing Company,Porter - American,5.25,27,NA,4,United States,Hilo,HI,2015-11-28
+Peanut Butter Milk Stout,Belching Beaver Brewery,Stout - Milk / Sweet,5.3,30,NA,3,United States,Vista,CA,2015-11-28
+Koko Brown,Kona Brewing Company,Brown Ale - American,5.5,28,Coconutty delicious,4,United States,Kailua-Kona,HI,2015-11-29
+Pipeline Porter,Kona Brewing Company,Porter - American,5.3,23,Excellent coffee flavors,4.5,United States,Kailua-Kona,HI,2015-11-29
+Black Sand Porter,Kona Brewing Company,Porter - American,6.5,0,NA,3.5,United States,Kailua-Kona,HI,2015-11-29
+White Mountain Porter,Big Island Brewhaus,Porter - Other,5.8,35,Excellent coconut flavor.  Needs a little more carbonation though.,4,United States,Kamuela,HI,2015-11-30
+Big Wave Golden Ale,Kona Brewing Company,Golden Ale,4.4,5,Tasty on a warm day,4,United States,Kailua-Kona,HI,2015-12-01
+Pipeline Porter,Kona Brewing Company,Porter - American,5.3,23,Delicious in the bottle!,4.5,United States,Kailua-Kona,HI,2015-12-02
+Breakside IPA,Breakside Brewery,IPA - American,6.8,70,NA,4.25,United States,Portland,OR,2015-12-03
+Kihei Kölsch,Maui Brewing Company,Kölsch,5.2,42,NA,3,United States,"Lahaina, Maui",HI,2015-12-03
+Stella Artois,Stella Artois,Lager - Euro,5,24,Meh.  My options were this or Coors Light.,2.5,Belgium,3000 Leuven,Vlaams-Brabant,2015-12-05
+Lavaman Red Ale,Kona Brewing Company,Red Ale - American Amber / Red,5.6,30,Solid red.  Nice maltiness.,4,United States,Kailua-Kona,HI,2015-12-06
+Crisp Apple,Angry Orchard Cider Company,Cider,5,0,Sweet and tasty,4,United States,Cincinnati,OH,2015-12-06
+CoCoNut PorTeR,Maui Brewing Company,Porter - American,6,30,An almost perfect Porter.  Even better on tap!,4.75,United States,"Lahaina, Maui",HI,2015-12-07
+Lahaina Town Brown,Maui Brewing Company,Brown Ale - American,5.3,18,Tasty brown with good nutty flavors,4,United States,"Lahaina, Maui",HI,2015-12-07
+10 Degrees of Separation,Coronado Brewing Company,Brown Ale - American,5.5,30,"Great nutty, coffee, and slight hoppy flavor",4.5,United States,San Diego,CA,2015-12-07
+Paia Porter,Kona Brewing Company,Porter - Other,6.5,0,Solid porter. Not as good as Pipeline though.,4,United States,Kailua-Kona,HI,2015-12-07
+ESB,Redhook Brewery,Extra Special / Strong Bitter,5.8,28,Smooth double IPA taste,3.75,United States,Woodinville,WA,2015-12-07
+Double Overtime,Maui Brewing Company,IPA - Imperial / Double,9,100,Tasty imperial with great hoppy flavor but not too bitter,4.5,United States,"Lahaina, Maui",HI,2015-12-07
+Chronic Amber Ale,Pizza Port Brewing Co.,Red Ale - American Amber / Red,4.9,0,"Easy drinking amber.  Was expecting more from a marijuana themed beer, but I suppose the skunkiness not being there is good",3.75,United States,Carlsbad,CA,2015-12-07
+Pliny the Elder,Russian River Brewing Company,IPA - Imperial / Double,8,100,Possibly the greatest IPA I have ever had.  Wow!,5,United States,Santa Rosa,CA,2015-12-10
+Oats Face,Sierra Nevada Brewing Co.,Extra Special / Strong Bitter,7.1,59,Meh.  Not a great ESB.,2.25,United States,Chico,CA,2015-12-10
+Stochasticity Project Your Father Smelt of Elderberries,Stone Brewing,Gruit / Ancient Herbed Ale,10.3,50,Way too smoky,2,United States,Escondido,CA,2015-12-10
+Jack Rose,Perennial Artisan Ales,Fruit Beer,8,0,Tasty cinnamon flavors,4,United States,St Louis,MO,2015-12-10
+Chocolate Hazelnut Porter,Heretic Brewing Company,Porter - Other,7,33,Very smooth and good hazelnut flavor.  A little lacking on chocolate though.,4.25,United States,Fairfield,CA,2015-12-10
+Mad Bark,Ciderboys Hard Cider,Cider,5,0,Cinnamony goodness,4.5,United States,Stevens Point,WI,2015-12-11
+Dank Hop,Swift Cider,Cider,6.7,0,Tastes like a pineapple sour.  Pretty good,4,United States,Portland,OR,2015-12-11
+Chocolate Porter,Block 15 Brewing Company,Porter - Other,5.5,22,Roasty with interesting bitter chocolate notes,4,United States,Corvallis,OR,2015-12-11
+Ivan The Terrible,Big Sky Brewing Company,Stout - Russian Imperial,9.5,65,These Russian imperials are still a little much for me,3.5,United States,Missoula,MT,2015-12-11
+Sled Wreck Winter Ale,Barley Brown's Beer,Winter Ale,8.5,75,Hoppy for a winter,3.75,United States,Baker City,OR,2015-12-11
+Cherry Chocoholic Baltic Porter,Rusty Truck Brewing,Porter - Baltic,7.2,0,A little too bitter for my tastes,3.75,United States,Lincoln City,OR,2015-12-11
+The Abyss (2015),Deschutes Brewery,Stout - American Imperial / Double,12.2,70,Definitely a one beer drunk kind of beer.  One of the best imperial stouts out there though.,4.5,United States,Bend,OR,2015-12-18
+Rhubarbarian,2 Towns Ciderhouse,Cider,5,0,A little too sweet and lacking rhubarb flavor,3.25,United States,Corvallis,OR,2015-12-19
+Das-Schutes Munich IPA,Deschutes Brewery,IPA - American,6.2,52,Nice mix of lager and hoppy flavors,4,United States,Bend,OR,2015-12-19
+Hop Henge Experimental IPA (2015),Deschutes Brewery,IPA - Imperial / Double,9.5,95,Ew.  Weird piney taste.,1,United States,Bend,OR,2015-12-19
+Sage Fight IPA,Deschutes Brewery,IPA - American,7.3,97,Strange flavors here too.  Expecting sage but it's a weird fake sage.,1,United States,Bend,OR,2015-12-19
+Armory XPA,Deschutes Brewery,Pale Ale - American,5.9,58,Subtle pine,3.5,United States,Bend,OR,2015-12-19
+The Dissident,Deschutes Brewery,Flanders Oud Bruin,10.5,18,Tasty sour brown ale,4,United States,Bend,OR,2015-12-19
+Red Chair NWPA,Deschutes Brewery,Pale Ale - American,6.2,60,NA,3.5,United States,Bend,OR,2015-12-19
+Sour Quad,Deschutes Brewery,Sour Ale,12,52,Super boozy but good flavor,4,United States,Bend,OR,2015-12-19
+Hard Blackberry Cider,Atlas Cider Company,Cider,6.2,0,"Really sweet, pretty good flavor, but lacks carbonation",3.75,United States,Bend,OR,2015-12-20
+Hard Apricot Cider,Atlas Cider Company,Cider,6.2,0,Excellent apricot flavor without being too sweet,4.5,United States,Bend,OR,2015-12-22
+Santa's Private Reserve Ale,Rogue Ales & Spirits,Red Ale - American Amber / Red,5.1,74,Solid red,4,United States,Newport,OR,2015-12-23
+XS Old Crustacean Barleywine,Rogue Ales & Spirits,Barleywine - American,11.5,110,"Definitely a sipper, but pretty good",4.25,United States,Newport,OR,2015-12-23
+Dead Guy Ale,Rogue Ales & Spirits,Maibock/Helles Bock,6.5,40,Really malty but tasty,4,United States,Newport,OR,2015-12-25
+Abominable Winter Ale,Hopworks Urban Brewery,Winter Ale,7.3,70,"Great hoppy flavor well-balanced with maltiness and slight spicy undertones.  By far, the best winter ale I have had.",4.25,United States,Portland,OR,2015-12-26
+Apple,Portland Cider Company,Cider,5.5,0,Not too sweet with great apple flavor.  Good stuff.,4.5,United States,Clackamas,OR,2015-12-26
+¡Tepache!,Reverend Nat's Hard Cider,Cider,3.2,0,Excellent by itself.  Great subtle pineapple near the end.,4.25,United States,Portland,OR,2015-12-27
+Ace Perry Cider,Ace Cider (The California Cider Company),Perry,5,0,Too sweet for me,3,United States,Sebastopol,CA,2015-12-27
+Inversion IPA,Deschutes Brewery,IPA - American,6.8,80,Hoppy and a little too bitter for me,3.75,United States,Bend,OR,2015-12-27
+Stiegl Radler Grapefruit Naturtrüb,Stieglbrauerei zu Salzburg,Radler,2,0,"Tastes almost exactly like Squirt soda, and it makes sense that it should with only 2% ABV.  Good thing I like grapefruit soda.",3.75,Austria,Salzburg,NA,2015-12-27
+Survival Stout,Hopworks Urban Brewery,Stout - Other,5.8,35,Tasty coffee stout,4.25,United States,Portland,OR,2015-12-28
+Indian Brown Ale,Dogfish Head Craft Brewery,Brown Ale - American,7.2,50,One of my favorites.  Perfect mix of hoppiness and roasty maltiness.,4.5,United States,Milton,DE,2015-12-29
+Spaten Optimator,Spaten-Franziskaner-Löwenbräu-Gruppe,Doppelbock,7.6,0,Excellent malty German flavor,4.25,Germany,München,NA,2015-12-29
+Super Snow Cap,Pyramid Breweries,Strong Ale - American,8.7,35,Solid,4,United States,Seattle,WA,2015-12-30
+Merry Christmas & Happy New Year (Our Special Ale) (2015),Anchor Brewing Company,Winter Warmer,5.5,0,"Strong, strange sour bitter flavor",2,United States,San Francisco,CA,2015-12-31
+Ace Berry Cider,Ace Cider (The California Cider Company),Cider,5,0,Tasty,4,United States,Sebastopol,CA,2015-12-31
+Dubhe Imperial Black IPA,Uinta Brewing Company,IPA - Imperial / Double Black,9.2,109,"Good, but really bitter.  109 IBUs!",4,United States,Salt Lake City,UT,2015-12-31
+Amber,Abita Brewing Company,Lager - American Amber / Red,4.5,17,Easily drinkable but nothing special,3,United States,Abita Springs,LA,2016-01-01
+Dry Raspberry Hard Cider,Wyder's Cider,Cider,4,0,Tasty and not too sweet,4,United States,Middlebury,VT,2016-01-01
+Hopworks IPA,Hopworks Urban Brewery,IPA - American,6.6,75,"An IPA worth recommending.  It isn't quite as good as Bell's Two Hearted, but one of the best IPAs in Portland.",4.25,United States,Portland,OR,2016-01-02
+Downtown Brown,Lost Coast Brewery,Brown Ale - English,5,16,NA,3.25,United States,Eureka,CA,2016-01-03
+Motherland,Hopworks Urban Brewery,Stout - Russian Imperial,9.8,60,Intense flavors with slight bourbon finish,4.25,United States,Portland,OR,2016-01-04
+Steam Train Porter,Snoqualmie Falls Brewing Company,Porter - American,5,28,Nice coffee flavor,4.25,United States,Snoqualmie,WA,2016-01-05
+Lucille,Georgetown Brewing Company,IPA - American,7,85,Huge hoppy flavors,4.25,United States,Seattle,WA,2016-01-05
+Dragonstooth Stout,Elysian Brewing,Stout - Imperial Oatmeal,7.45,36,Creamy and delicious,4.25,United States,Seattle,WA,2016-01-05
+Shakedown,Black Market Brewing Co.,Brown Ale - American,5.5,40,On nitro!  Nice idea for a brown,4,United States,Temecula,CA,2016-01-05
+Naughty Nellie,The Pike Brewing Company,Golden Ale,5.5,24,NA,3.25,United States,Seattle,WA,2016-01-06
+Pike Pale,The Pike Brewing Company,Red Ale - American Amber / Red,5,32,NA,3.5,United States,Seattle,WA,2016-01-06
+Scotch Style Ruby Ale,The Pike Brewing Company,Scottish Ale,6.5,27,NA,3.25,United States,Seattle,WA,2016-01-06
+XXXXX Pike Stout,The Pike Brewing Company,Stout - American,7,65,NA,3.75,United States,Seattle,WA,2016-01-06
+Monk's Uncle,The Pike Brewing Company,Belgian Tripel,9,38,NA,3,United States,Seattle,WA,2016-01-06
+IPA (India Pale Ale),The Pike Brewing Company,IPA - American,6.3,60,NA,3,United States,Seattle,WA,2016-01-06
+Joe STOUT,Backwoods Brewing Company,Stout - Milk / Sweet,5,20,Tasty milk stout on nitro,4.25,United States,Carson,WA,2016-01-07
+Shades Black Ale,Wild Ride Brewing,Dark Ale,5.4,35,Tasty session-like stout,4.25,United States,Redmond,OR,2016-01-07
+Arrogant Bastard Ale (Bourbon Barrel Aged),Arrogant Brewing,Strong Ale - American,8.1,100,Massive strong ale with big bourbon finish,3.75,United States,Escondido,CA,2016-01-07
+Winter Warmer,Big Al Brewing,Winter Warmer,7.5,0,Excellent winter ale.  The fig and hops come through nicely.,4.25,United States,Seattle,WA,2016-01-07
+Anthem Hops Special Edition Fresh Hopped (Unfiltered),Wandering Aengus Ciderworks,Cider,6.2,0,NA,3.5,United States,Salem,OR,2016-01-08
+Black & Blue,Julian Hard Cider,Cider,6.99,0,NA,4.25,United States,Julian,CA,2016-01-08
+Wayward Black Beer,Holy Mountain Brewing,Dark Ale,4.5,0,NA,4,United States,Seattle,WA,2016-01-08
+Hop'Rageous,Portland Cider Company,Cider,6.8,0,Nice hoppy with slight apple flavor,4.25,United States,Clackamas,OR,2016-01-10
+Cherry Bomb,Julian Hard Cider,Cider,6.99,0,Excellent cherry finish and not too sweet,4.25,United States,Julian,CA,2016-01-11
+8 Malty Nights,Lompoc Brewing,Porter - American,6.5,0,Excellent flavors and quite possibly the perfect nitro beer,4.5,United States,Portland,OR,2016-01-12
+Slippery Slope,Cascade Lakes Brewing Company,Winter Warmer,6.4,50,Lacks flavor but it's decent,3,United States,Redmond,OR,2016-01-12
+Snow Day,New Belgium Brewing Company,Winter Ale,6.2,0,Not too shabby.  Classic New Belgium.,3.5,United States,Fort Collins,CO,2016-01-13
+Citradelic IPA,New Belgium Brewing Company,IPA - American,6,50,By far New Belgium's best IPA.  The subtle citrus really balances it well.,4.5,United States,Fort Collins,CO,2016-01-13
+Censored Rich Copper Ale (aka The Kronik),Lagunitas Brewing Company,Red Ale - American Amber / Red,6.75,35,"Pretty good amber.  I have no idea what ""copper"" tastes like, but this tastes exactly like it.",3.5,United States,Petaluma,CA,2016-01-13
+Brown Shugga',Lagunitas Brewing Company,Strong Ale - American,9.8,51,Definitely funky.  Sweet but also boozy.,4,United States,Petaluma,CA,2016-01-14
+Dunkel,Occidental Brewing Co.,Lager - Dunkel Munich,5.3,0,Tasty German brew,4,United States,Portland,OR,2016-01-15
+Brown,Full Sail Brewing Company,Brown Ale - American,6,0,Solid nut brown ale,4,United States,Hood River,OR,2016-01-15
+Tsunami Stout,Pelican Brewing Company,Stout - Foreign / Export,7,45,Creamy and delicious on nitro,4.5,United States,Pacific City,OR,2016-01-16
+Diablo Rojo,Boneyard Beer Company,Red Ale - American Amber / Red,5.5,30,Good balance of malt and hops,4,United States,Bend,OR,2016-01-16
+Sleigh'r Dark Doüble Alt Ale,Ninkasi Brewing Company,Winter Ale,7.2,50,Caramelly with nice hops flavor,4.25,United States,Eugene,OR,2016-01-16
+Dry Pear Hard Cider,Wyder's Cider,Cider,4,0,NA,4,United States,Middlebury,VT,2016-01-16
+Baked Apple,D's Wicked Cider,Cider,8.5,0,Tastes like boozy apple pie and that's mighty tasty,4.25,United States,Kennewick,WA,2016-01-18
+Porter,Kennebunkport Brewing Co.,Porter - American,5.6,0,Not too shabby,3.75,United States,Kennebunk,ME,2016-01-19
+Salted Caramel Stout,Breakside Brewery,Stout - Milk / Sweet,6.7,28,Wowsa.  That's a mighty fine stout.  Sweet caramel blast of flavor and subtle undertones make this delicious.,4.5,United States,Portland,OR,2016-01-20
+Newton's Folly Granny Smith Draft Cider,American Hard Cider Company,Cider,5,0,Lacks flavor,2,United States,Middlebury,VT,2016-01-21
+Newton's Folly Authentic Draft Cider,American Hard Cider Company,Cider,5,0,Meh.  Nothing special.,2.5,United States,Middlebury,VT,2016-01-21
+Beer Camp Tropical IPA (2016),Sierra Nevada Brewing Co.,IPA - American,6.7,55,Big hoppy flavor with tropical fruit notes,4.25,United States,Chico,CA,2016-01-21
+Jumping Cow Amber Ale,Steinhaus Brewing Company,Red Ale - American Amber / Red,5.4,0,NA,3,United States,Paso Robles,CA,2016-01-22
+Apricot Cream Ale,Vertigo Brewing,Cream Ale,4.6,0,Great taste pairing the apricot with a cream style.  Very nice.,4.5,United States,Hillsboro,OR,2016-01-23
+Smokestack Red,Vertigo Brewing,Red Ale - American Amber / Red,5.7,32,Very nice and creamy,4.25,United States,Hillsboro,OR,2016-01-23
+Friar Mike's IPA,Vertigo Brewing,IPA - American,6.1,61,Good but not as smooth as the top notch,3.5,United States,Hillsboro,OR,2016-01-23
+Friar Gone Wild,Vertigo Brewing,IPA - Imperial / Double,9,100,NA,4.25,United States,Hillsboro,OR,2016-01-23
+Arctic Blast Vanilla Porter,Vertigo Brewing,Porter - American,5.8,0,Excellent on nitro.  A little nutty,4.5,United States,Hillsboro,OR,2016-01-23
+Rum Barrel Aged Coconut Porter,Vertigo Brewing,Porter - American,9.1,38,Tasty.  I like the rum barrel aging better than bourbon barrels.,4.5,United States,Hillsboro,OR,2016-01-23
+Side Trip,New Belgium Brewing Company,Pale Ale - Belgian,6,22,Pretty good for a Belgian pale.  Not too overwhelmingly Belgian.,3.75,United States,Fort Collins,CO,2016-01-24
+JK'S Scrumpy Orchard Gate Gold Organic Hard Cider (Farmhouse),J.K.'S Farmhouse Ciders,Cider,6,0,Tasty.  Like apple juice more than any other cider I have had but boozy too,4.25,United States,Flushing,MI,2016-01-27
+Celebration Ale (2013),Sierra Nevada Brewing Co.,IPA - American,6.8,65,NA,4,United States,Chico,CA,2016-01-29
+La Tormenta,Breakside Brewery,Sour Ale,7,22,Excellent non-traditional sour with hoppy flavors,4,United States,Portland,OR,2016-01-30
+Green Apple,D's Wicked Cider,Cider,8.5,0,"Big time ABV, nice apple flavor.  This is solid.",4.25,United States,Kennewick,WA,2016-01-31
+Hard Pom-Cherry Cider,Atlas Cider Company,Cider,5.8,0,Not too sweet with good flavor,4.25,United States,Bend,OR,2016-02-01
+Vanilla Oatis Stout,Ninkasi Brewing Company,Stout - Oatmeal,7,50,NA,3.75,United States,Eugene,OR,2016-02-01
+S1NIST0R Black Ale,10 Barrel Brewing Co.,Schwarzbier,5.7,28,Tasty dark ale,4.25,United States,Bend,OR,2016-02-02
+Spire Mountain Sparkling Pear,Fish Brewing Company,Cider,5,0,A little too sweet.  Not much pear flavor either.,3,United States,Olympia,WA,2016-02-02
+Original Alcoholic Ginger Beer,John Crabbie & Co,Ginger Beer,4.8,0,"Strong, spicy ginger taste",4,Scotland,Glasgow,"City of Glasgow, G3 7QF",2016-02-06
+Shake Chocolate Porter,Boulder Beer Company,Porter - American,5.9,39,Chocolatey deliciousness,4.25,United States,Boulder,CO,2016-02-07
+Jubelale,Deschutes Brewery,Winter Ale,6.7,65,NA,3.5,United States,Bend,OR,2016-02-07
+Sweaty Betty,Boulder Beer Company,Hefeweizen,5.2,15,Meh.  Not a big fan of hefes.,2.5,United States,Boulder,CO,2016-02-07
+Dick's Cream Stout,Dick's Brewing Company,Stout - Milk / Sweet,5.5,20,"Decent flavor, but lacks carbonation",3.75,United States,Centralia,WA,2016-02-08
+Fa La La La La,Double Mountain Brewery & Taproom,Winter Ale,7.6,85,Big time hoppiness but good wintery malt too,4.25,United States,Hood River,OR,2016-02-10
+The Terry Porter,Gilgamesh Brewing,Porter - American,6.3,25,Solid porter with a great name and an even better cause.  $2 from every bottle is donated to helping a children's hospital.,4.25,United States,Salem,OR,2016-02-11
+Cranberry Cider,Tieton Cider Works,Cider,6.9,0,Yum!  This is an almost perfectly flavored cranberry cider.,4.75,United States,Yakima,WA,2016-02-12
+Oatmeal Pale Ale,Burnside Brewing Co. (Oregon),Pale Ale - American,5.6,44,Oatmeal adds nice smooth taste,4,United States,Portland,OR,2016-02-12
+Oatmeal Stout,Glacier Brewhouse,Stout - Oatmeal,5.61,21,Very smooth,4.5,United States,Anchorage,AK,2016-02-13
+Black Rye Bock,Glacier Brewhouse,Lager - Black,7.07,20,"Tasty, caramelly bock",4.25,United States,Anchorage,AK,2016-02-13
+2013 Oak Aged Eisbock,Glacier Brewhouse,Eisbock,10,0,My first eisbock.  Caramelly and vanilla highlights.,4.25,United States,Anchorage,AK,2016-02-13
+Makers Mark Stout,Glacier Brewhouse,Stout - Other,5.61,0,Good barrel aged stout.  Not too much whiskey flavor.,4,United States,Anchorage,AK,2016-02-13
+Russian Imperial Stout (Buffalo Trace Barrels),Glacier Brewhouse,Stout - Russian Imperial,9.25,60,NA,4,United States,Anchorage,AK,2016-02-13
+Fairweather IPA,Broken Tooth Brewing,IPA - American,6.4,64,Solid,4,United States,Anchorage,AK,2016-02-13
+Blonde Style Ale,Kenai River Brewing Company,Blonde Ale,5,0,NA,3,United States,Soldotna,AK,2016-02-14
+Oosik Amber Ale,Midnight Sun Brewing Co.,Altbier,5,11,NA,3.5,United States,Anchorage,AK,2016-02-14
+Oatmeal Stout,Orso,Stout - Oatmeal,5.61,0,Yum.  Very smooth and creamy.,4.75,United States,Anchorage,AK,2016-02-14
+Nut Brown,Glacier Brewhouse,Brown Ale - American,5.92,0,"Nice, sweet nutty flavor",4.25,United States,Anchorage,AK,2016-02-15
+India Pale Ale,Glacier Brewhouse,IPA - American,6.35,0,Great hoppy flavor and nice and smooth,4.25,United States,Anchorage,AK,2016-02-15
+Cask Conditioned IPA,Glacier Brewhouse,IPA - American,6.35,60,First IPA from a cask.  Interesting,4.25,United States,Anchorage,AK,2016-02-15
+Double IPA,Glacier Brewhouse,IPA - Imperial / Double,7.95,100,Subtle strange flavor here.  Not sure what it is.,3.5,United States,Anchorage,AK,2016-02-15
+Citrus IPA,Glacier Brewhouse,IPA - American,7.2,0,"Good, but not as good as Citradelic from New Belgium.  A little too lemony",3.75,United States,Anchorage,AK,2016-02-15
+BarFly,Midnight Sun Brewing Co.,Smoked Beer,11.6,45,Yum.  The oak barrels add great flavor.,4.25,United States,Anchorage,AK,2016-02-15
+XXX Black Double IPA,Midnight Sun Brewing Co.,IPA - Imperial / Double Black,8.5,87,A little too grainy for me,3.75,United States,Anchorage,AK,2016-02-15
+Berserker Imperial Stout,Midnight Sun Brewing Co.,Stout - American Imperial / Double,12.7,30,Huge maple imperial stout,4.25,United States,Anchorage,AK,2016-02-15
+Termination Dust,Midnight Sun Brewing Co.,Barleywine - English,13,70,Wow.  That's a good barley wine.  Sweet and almost more like a stout with all the booze.,4.25,United States,Anchorage,AK,2016-02-15
+Modern Romance,Midnight Sun Brewing Co.,Strong Ale - American,9.3,37,Interesting spicy chocolate.  Pretty intense,4,United States,Anchorage,AK,2016-02-15
+Hard Apple Ale,Broken Tooth Brewing,Fruit Beer,5.2,0,All the great qualities of cider and beer brought together,4.25,United States,Anchorage,AK,2016-02-16
+Midtown Brown,Broken Tooth Brewing,Brown Ale - American,5.1,0,NA,3.5,United States,Anchorage,AK,2016-02-16
+Prince William's Porter,Broken Tooth Brewing,Porter - American,5.5,25,By far one of most roasty porters I've had,4,United States,Anchorage,AK,2016-02-16
+Pipeline Stout,Broken Tooth Brewing,Stout - American,6.3,30,NA,4,United States,Anchorage,AK,2016-02-16
+Darth Delirium (2016),Broken Tooth Brewing,Belgian Strong Dark Ale,10.5,40,Huge flavor and mighty tasty,4.25,United States,Anchorage,AK,2016-02-16
+YellowEye P.A. (Tropical IPA),Broken Tooth Brewing,IPA - American,7.5,74,"Yum.  The description is spot on:  Clean and big with tropical hop notes of apricot, mango, passion fruit, and peach.  Hawaii in Alaska.",4.5,United States,Anchorage,AK,2016-02-16
+Sam Tooth Chocolate Stout,Broken Tooth Brewing,Stout - Milk / Sweet,5.2,40,Not quite the chocolate flavor I was hoping for,3.25,United States,Anchorage,AK,2016-02-16
+Winter Ale,Alaskan Brewing Co.,Old Ale,6.4,22,Caramelly,4,United States,Juneau,AK,2016-02-16
+40 Below Stout,Silver Gulch Brewing Company,Stout - Russian Imperial,8.5,77,Nice and smooth Russian imperial,4.25,United States,Fox,AK,2016-02-17
+Hop Cooler,Ninkasi Brewing Company,IPA - American,7.2,74,Tasty,4.25,United States,Eugene,OR,2016-02-18
+Slacker,No-Li Brewhouse,Herbed / Spiced Beer,6.1,20,Pretty good.  Doesn't have quite the citrus or vanilla flavor I was hoping for.,3.75,United States,Spokane,WA,2016-02-21
+Porter,Sierra Nevada Brewing Co.,Porter - American,5.6,32,Not too shabby,4,United States,Chico,CA,2016-02-22
+Amber,Alaskan Brewing Co.,Altbier,5.3,18,Ol' reliable,4.25,United States,Juneau,AK,2016-02-22
+Hop Turn IPA,Alaskan Brewing Co.,IPA - American,7.5,45,"Not bad, but not really good either",3.25,United States,Juneau,AK,2016-02-23
+Otra Vez,Sierra Nevada Brewing Co.,Gose,4.5,5,Goses are interesting.  This would be good on a warm day.,3.75,United States,Chico,CA,2016-02-24
+Dundee Porter,Golden Valley Brewery and Pub,Porter - Other,5.4,0,Not too shabby,4.25,United States,McMinnville,OR,2016-02-25
+Bald Peak IPA,Golden Valley Brewery and Pub,IPA - American,7.2,80,NA,4,United States,McMinnville,OR,2016-02-25
+Hawaiian Sunburn,Elysian Brewing,Sour Ale,5.3,9,Not as much pineapple as I hoped for.  Very subtle heat at the end.  Decent sour.,3.75,United States,Seattle,WA,2016-02-26
+Grand Mimosa,Ciderboys Hard Cider,Cider,5,0,Tastes exactly as advertised,4.25,United States,Stevens Point,WI,2016-02-27
+Jamaica Red Ale,Mad River Brewing Company,Red Ale - American Amber / Red,6.5,45,"Not spectacular, but a solid red",3.5,United States,Blue Lake,CA,2016-02-29
+Fish Tale Organic Amber Ale,Fish Brewing Company,Red Ale - American Amber / Red,5,22,Interesting red/amber flavor,3.5,United States,Olympia,WA,2016-03-01
+El Dazzle Winter Stout,Hale's Ales Brewery and Pub,Stout - Other,6.3,32,NA,4,United States,Seattle,WA,2016-03-01
+West Coast IPA (2016),Green Flash Brewing Company,IPA - Imperial / Double,8.1,95,"Pretty bitter, but it's good",4,United States,San Diego,CA,2016-03-02
+RIP Porter,Heathen Brewing,Porter - Other,6.1,31,"Not as smooth as I like, but it's pretty good",3.75,United States,Vancouver,WA,2016-03-03
+10 Pine Chocolate Porter,Three Creeks Brewing Company,Porter - American,8.4,25,Deliciously chocolatey,4.5,United States,Sisters,OR,2016-03-04
+Eclipse,Bend Brewing Company,IPA - Black / Cascadian Dark Ale,7.5,0,NA,4.25,United States,Bend,OR,2016-03-04
+Smoked Porter (2006),Alaskan Brewing Co.,Smoked Beer,6.5,0,"Wow, so much smoke.  Tastes like smoked salmon yuuuuge initially.",3.5,United States,Juneau,AK,2016-03-04
+Pumpkin Lambicus,Brewery John Martin & Brewery Timmermans,Pumpkin / Yam Beer,4,0,NA,3.5,Belgium,Genval,NA,2016-03-04
+Cold Brew,Two Beers Brewing Co.,Brown Ale - American,5.3,18,"Yum!  Excellent, smooth coffee flavor",4.5,United States,Seattle,WA,2016-03-08
+Primeval,Baerlic Brewing Company,Brown Ale - American,6.8,70,NA,4,United States,Portland,OR,2016-03-11
+Stumptown CandyPeel IPA,BridgePort Brewing Co.,IPA - American,6.5,65,"Not too bad, but not too great either",3.5,United States,Portland,OR,2016-03-11
+Double Bastard Ale,Arrogant Brewing,Strong Ale - American,11,100,NA,4.25,United States,Escondido,CA,2016-03-12
+HUB Lager,Hopworks Urban Brewery,Pilsner - Czech,5.1,32,"Meh, pilsners suck",2.5,United States,Portland,OR,2016-03-12
+IPX Organic El Dorado,Hopworks Urban Brewery,IPA - American,6,60,Simple pale,3.5,United States,Portland,OR,2016-03-12
+Velvet ESB,Hopworks Urban Brewery,Extra Special / Strong Bitter,5.2,30,NA,4,United States,Portland,OR,2016-03-12
+Hopworks IPA,Hopworks Urban Brewery,IPA - American,6.6,75,NA,4,United States,Portland,OR,2016-03-12
+Survival Stout,Hopworks Urban Brewery,Stout - Other,5.8,35,NA,4.5,United States,Portland,OR,2016-03-12
+Deluxe Organic Ale (DOA),Hopworks Urban Brewery,Strong Ale - American,7,0,NA,3.5,United States,Portland,OR,2016-03-12
+Rise Up Red,Hopworks Urban Brewery,Red Ale - American Amber / Red,6.1,65,NA,4,United States,Portland,OR,2016-03-12
+Gear Up IPA,Hopworks Urban Brewery,IPA - American,6.6,76,NA,3.75,United States,Portland,OR,2016-03-12
+Zesty Lass Grapefruit IPA,Three Mugs Brewing Company,IPA - American,7.8,51,NA,3.75,United States,Hillsboro,OR,2016-03-12
+Northern Rebellion,Three Mugs Brewing Company,Brown Ale - English,4,15,NA,4,United States,Hillsboro,OR,2016-03-12
+Sinfully Yours - Cask,Three Mugs Brewing Company,Porter - Imperial / Double,9.3,0,NA,0.5,United States,Hillsboro,OR,2016-03-12
+Fiery Wench,Three Mugs Brewing Company,Red Ale - Imperial / Double,9,85,Isn't this a Belgian?,3,United States,Hillsboro,OR,2016-03-12
+Cinnamon Toast Ale,Three Mugs Brewing Company,Winter Warmer,7.1,17,NA,3.25,United States,Hillsboro,OR,2016-03-12
+Mo' Honey Ale,Three Mugs Brewing Company,Golden Ale,6.9,33,NA,3.25,United States,Hillsboro,OR,2016-03-12
+Briney Melon Gose,Anderson Valley Brewing Company,Gose,4.2,0,A little more melon would be nice,3.75,United States,Boonville,CA,2016-03-12
+Grapefruit Rustler,Payette Brewing Co.,IPA - American,6.2,65,NA,2.5,United States,Garden City,ID,2016-03-12
+Easy Jack,Firestone Walker Brewing Company,IPA - Session / India Session Ale,4.5,47,NA,4.25,United States,Paso Robles,CA,2016-03-12
+Something Brown,Gigantic Brewing Company,Brown Ale - American,4.5,18,Lacks flavor,3,United States,Portland,OR,2016-03-12
+Hopworks IPA,Hopworks Urban Brewery,IPA - American,6.6,75,Interesting on nitro,4,United States,Portland,OR,2016-03-12
+Simian Stout,Fort George Brewery,Stout - Other,7.1,0,Subtle banana.  Not too bad,3.75,United States,Astoria,OR,2016-03-12
+E-Ticket Chocolate Raspberry Porter,Vertigo Brewing,Fruit Beer,4.8,35,NA,4.25,United States,Hillsboro,OR,2016-03-12
+Indra Kunindra,Ballast Point Brewing & Spirits,Stout - Foreign / Export,7,50,NA,4,United States,San Diego,CA,2016-03-12
+Cafe Baltika,Deschutes Brewery,Porter - Baltic,6.8,0,Big coffee and chocolate flavors.  Barely tastes like beer,4.25,United States,Bend,OR,2016-03-13
+Oort Imperial Stout,Ecliptic Brewing,Stout - Other,8.5,72,NA,4.25,United States,Portland,OR,2016-03-13
+Orbiter IPA,Ecliptic Brewing,IPA - American,7.4,75,NA,4.25,United States,Portland,OR,2016-03-13
+XPEC 44 Peach Sour Ale,Ecliptic Brewing,Sour Ale,5.5,10,NA,4.25,United States,Portland,OR,2016-03-13
+Deimos,Backlash Beer Company,IPA - Imperial / Double,9,0,NA,4.25,United States,Holyoke,MA,2016-03-13
+Orange Giant Barleywine,Ecliptic Brewing,Barleywine - American,12.5,12,NA,4.25,United States,Portland,OR,2016-03-13
+Pegasus ESB,Ecliptic Brewing,Extra Special / Strong Bitter,5.8,38,NA,4,United States,Portland,OR,2016-03-13
+Zenith Grapefruit Gose,Ecliptic Brewing,Gose,4.5,10,NA,3,United States,Portland,OR,2016-03-13
+Notorious IPA³,Boneyard Beer Company,IPA - Triple,11.8,80,Huge flavors but still impressively smooth,4.25,United States,Bend,OR,2016-03-14
+20th Anniversary Encore Series: Stone 12th Anniversary Bitter Chocolate Oatmeal Stout,Stone Brewing,Stout - Imperial Oatmeal,9.2,55,Big meal in a snifter,4.25,United States,Escondido,CA,2016-03-14
+Breakside IPA,Breakside Brewery,IPA - American,6.8,70,NA,4.25,United States,Portland,OR,2016-03-14
+Lunch Break ISA,Breakside Brewery,IPA - Session / India Session Ale,4.7,28,Solid session,3.75,United States,Portland,OR,2016-03-14
+Wanderlust IPA,Breakside Brewery,IPA - American,6.7,50,NA,4.25,United States,Portland,OR,2016-03-14
+Stout,Breakside Brewery,Stout - Foreign / Export,7,40,NA,4,United States,Portland,OR,2016-03-14
+Vienna Coffee OG Cold Brew,Breakside Brewery,Lager - Pale,6.1,30,Non-Porter coffee beers are funky,3.5,United States,Portland,OR,2016-03-14
+Last Roman,Breakside Brewery,Strong Ale - American,5.2,27,They say it's jammy and I agree,4.25,United States,Portland,OR,2016-03-14
+Rye Curious?,Breakside Brewery,Red Ale - American Amber / Red,5.7,15,NA,3.5,United States,Portland,OR,2016-03-14
+Apocalypse IPA,10 Barrel Brewing Co.,IPA - American,6.8,70,NA,4,United States,Bend,OR,2016-03-15
+Grapefruit Sculpin,Ballast Point Brewing & Spirits,IPA - American,7,70,NA,4.75,United States,San Diego,CA,2016-03-15
+He-Man Imperial Stout,Arch Rock Brewing Company,Stout - Imperial / Double,9.5,0,NA,3.75,United States,Gold Beach,OR,2016-03-15
+Black Marlin Porter,Ballast Point Brewing & Spirits,Porter - American,6,42,NA,4,United States,San Diego,CA,2016-03-15
+Peppermint Victory At Sea,Ballast Point Brewing & Spirits,Porter - Imperial / Double,10,60,NA,4,United States,San Diego,CA,2016-03-16
+Cold Press Coffee Porter,Everybody's Brewing,Porter - American,5.4,45,"Good, but there are better coffee porters out there",3.75,United States,White Salmon,WA,2016-03-18
+Cranny Granny,D's Wicked Cider,Cider,6.5,0,NA,4.25,United States,Kennewick,WA,2016-03-19
+Watermelon Dorado,Ballast Point Brewing & Spirits,IPA - Imperial / Double,10,90,Funky but good.  Big hoppy taste up front with watermelon end notes.,4.25,United States,San Diego,CA,2016-03-20
+IPA,Pfriem Family Brewers,IPA - American,7.2,65,"Wow, this is an excellent IPA.  Gonna have to look into more from this brewery.",4.5,United States,Hood River,OR,2016-03-21
+Mango Even Keel,Ballast Point Brewing & Spirits,IPA - Session / India Session Ale,3.8,40,By far the best beer I have ever had under 4% ABV.  Really nice mango flavor.  The transition to the mango finish is a little funky though.,4,United States,San Diego,CA,2016-03-22
+IPA,Caldera Brewing Company,IPA - American,6.1,94,NA,3.75,United States,Ashland,OR,2016-03-22
+Stone Delicious IPA,Stone Brewing,IPA - American,7.7,80,NA,4.25,United States,Escondido,CA,2016-03-24
+Racer 5 IPA®,Bear Republic Brewing Co.,IPA - American,7.5,75,Tasty,4.5,United States,Healdsburg,CA,2016-03-25
+Wrath,Reverend Nat's Hard Cider,Cider,8.5,0,This is not good.  Spicy booze.  Gross.,0.25,United States,Portland,OR,2016-03-25
+2015 Stone CHAI-SPICED Imperial Russian Stout,Stone Brewing,Stout - Russian Imperial,10.6,65,"Ew, what is that flavor at the end?",1,United States,Escondido,CA,2016-03-25
+Anthem Hops,Wandering Aengus Ciderworks,Cider,5.5,10,NA,3.5,United States,Salem,OR,2016-03-26
+Pumpkin Spice,Seattle Cider Company,Cider,6.9,0,Yummy,4.25,United States,Seattle,WA,2016-03-26
+Sour Cherry,Red Tank Cider,Cider,5.4,0,NA,4.25,United States,Bend,OR,2016-03-26
+Anthem Pear,Wandering Aengus Ciderworks,Perry,5.5,0,NA,3.25,United States,Salem,OR,2016-03-26
+Brown Ale,Kirkland Signature,Brown Ale - English,5,23,NA,3,United States,San Jose,CA,2016-03-27
+Dark Hyde,10 Barrel Brewing Co.,IPA - Imperial / Double Black,7.3,89,Great smooth CDA.,4.25,United States,Bend,OR,2016-03-29
+Double Stuff Stout,10 Barrel Brewing Co.,Stout - Milk / Sweet,6.5,28,Chocolatey goodness,4.75,United States,Bend,OR,2016-03-29
+Prohibition Pauly Porter,Fat Head's Brewery,Porter - American,5.8,0,NA,4,United States,North Olmsted,OH,2016-03-29
+Lux,Ninkasi Brewing Company,Lager - Helles,5,20,NA,4,United States,Eugene,OR,2016-03-31
+Hop Heaven,Columbia River Brewing,IPA - American,7.5,78,NA,3.5,United States,Portland,OR,2016-04-03
+Boom Boom Espresso Stout,Columbia River Brewing,Stout - American,7,34,NA,4.25,United States,Portland,OR,2016-04-03
+Paddler's Porter,Columbia River Brewing,Porter - Baltic,8.5,37,NA,4.5,United States,Portland,OR,2016-04-03
+War Elephant,Columbia River Brewing,IPA - Imperial / Double,8.5,85,NA,4.25,United States,Portland,OR,2016-04-03
+Stumblers Stout,Columbia River Brewing,Stout - Oatmeal,6.5,34,NA,3.5,United States,Portland,OR,2016-04-03
+Confluence IPA,Columbia River Brewing,IPA - American,7.2,71,NA,3.5,United States,Portland,OR,2016-04-03
+Barrel Aged Stout,Columbia River Brewing,Stout - American,7,34,NA,3,United States,Portland,OR,2016-04-03
+CRB Pale,Columbia River Brewing,Pale Ale - American,6.7,52,NA,3.25,United States,Portland,OR,2016-04-03
+Sandy Blonde,Columbia River Brewing,Blonde Ale,6,24,NA,3,United States,Portland,OR,2016-04-03
+Heady Topper,The Alchemist,IPA - Imperial / Double,8,100,"Wow, that's the best IPA I think I will ever have.  I guess that's why it is always rated in the top 5 in the world.",5,United States,Waterbury,VT,2016-04-07
+Organic Portland Roast Espresso Stout,Laurelwood Brewing Co.,Stout - American,6.4,30,Roasty and delicious,4.5,United States,Portland,OR,2016-04-08
+Spring Reign,Ninkasi Brewing Company,Pale Ale - American,6,38,Meh,2.75,United States,Eugene,OR,2016-04-09
+Hoppy Blonde,New Belgium Brewing Company,Blonde Ale,5.7,45,NA,3.75,United States,Fort Collins,CO,2016-04-10
+Skunkape IRA,Boneyard Beer Company,Red Ale - American Amber / Red,6.2,40,NA,4,United States,Bend,OR,2016-04-15
+Passion Fruit Cider,Portland Cider Company,Cider,6.7,0,NA,4,United States,Clackamas,OR,2016-04-15
+Well Red IRA,Ex Novo Brewing,Red Ale - Imperial / Double,7.1,60,Big hops with subtle malty red,4,United States,Portland,OR,2016-04-16
+The Loving Cup,Coalition Brewing Co.,Porter - Other,5.8,32,Lacking flavor,3,United States,Portland,OR,2016-04-16
+Moonlight Ride Blackberry,Rusty Truck Brewing,Fruit Beer,5.3,20,NA,3.5,United States,Lincoln City,OR,2016-04-16
+Barmy,Ballast Point Brewing & Spirits,Strong Ale - American,12,23,Too much fake fruity flavor up front,2.75,United States,San Diego,CA,2016-04-16
+Sextant,Ballast Point Brewing & Spirits,Stout - Oatmeal,6,24,Creamy and great on nitro,4.25,United States,San Diego,CA,2016-04-16
+Hard Orange Cream Ale,Coney Island Brewing Company,Cream Ale,5,0,A little too sweet but excellent idea,4.25,United States,Brooklyn,NY,2016-04-17
+Viking Blod,Dansk Mjød,Mead,19,0,NA,4.25,Denmark,Billund,NA,2016-04-22
+Dino S'mores,Off Color Brewing,Stout - Russian Imperial,10.5,40,NA,4,United States,Chicago,IL,2016-04-22
+Salted Caramel Porter,Cascade Lakes Brewing Company,Porter - Other,5.8,37,NA,4.5,United States,Redmond,OR,2016-04-22
+Midnight Black Gose,Ex Novo Brewing,Gose,5,8,NA,4.25,United States,Portland,OR,2016-04-22
+IBUsive,Fat Head's Brewery,IPA - American,7.4,80,NA,4.25,United States,North Olmsted,OH,2016-04-22
+Sharp Cherry,Jester & Judge,Cider,5.8,0,NA,3.5,United States,Stevenson,WA,2016-04-22
+Two Hearted Ale,Bell's Brewery,IPA - American,7,55,NA,4.75,United States,Galesburg,MI,2016-04-29
+Quilmes Cristal,Cervecería y Maltería Quilmes,Lager - North American Adjunct,4.9,0,NA,3,Argentina,Quilmes,Buenos Aires,2016-04-30
+Lager,Omission Beer,Gluten-Free,4.6,20,NA,3.5,United States,Portland,OR,2016-05-01
+20th Anniversary Encore Series: Stone 6th Anniversary Porter,Stone Brewing,Smoked Beer,8,60,Big time smokiness,3.25,United States,Escondido,CA,2016-05-01
+Conifer Ipa,Waltz Brewing,IPA - American,6.2,0,IPA season is here!,4.25,United States,Forest Grove,OR,2016-05-05
+BrightCider,2 Towns Ciderhouse,Cider,6,0,NA,3.75,United States,Corvallis,OR,2016-05-05
+Sorta Sweet,Portland Cider Company,Cider,4.5,0,Stellar,4.5,United States,Clackamas,OR,2016-05-06
+Rosen' Berry,Fox-Tail Cider,Cider,6.4,0,NA,4,United States,Hood River,OR,2016-05-06
+Hard Apple Cider,Atlas Cider Company,Cider,5.8,0,NA,3.5,United States,Bend,OR,2016-05-06
+Heavy Melon,New Belgium Brewing Company,Fruit Beer,5,14,Not terrible but really lacking on fruit flavor,3,United States,Fort Collins,CO,2016-05-07
+India Golden Ale,Breakside Brewery,IPA - Imperial / Double,8.1,80,In a bomber,4.5,United States,Portland,OR,2016-05-07
+Blue Paddle,New Belgium Brewing Company,Pilsner - Czech,4.8,33,Pretty good for a pilsener,3.25,United States,Fort Collins,CO,2016-05-10
+Ace Apple Honey Cider,Ace Cider (The California Cider Company),Cider,5,0,NA,3.25,United States,Sebastopol,CA,2016-05-11
+Eliot IPA,Ex Novo Brewing,IPA - American,6.6,50,Solid,4,United States,Portland,OR,2016-05-12
+Vader Black IPA,Gilgamesh Brewing,IPA - Black / Cascadian Dark Ale,6.4,60,"A little weird with the coffee addition, but not pretty good for a funky mix",3.75,United States,Salem,OR,2016-05-12
+Cosmic Ristretto,Green Flash Brewing Company,Porter - Baltic,8.2,45,Roasty with bold coffee taste and a subtle nutty flavor,4.25,United States,San Diego,CA,2016-05-12
+Supplication,Russian River Brewing Company,American Wild Ale,7.75,0,Excellent sour,4.25,United States,Santa Rosa,CA,2016-05-12
+Mamba,Gilgamesh Brewing,Herbed / Spiced Beer,6.3,0,Weird tea and herbal flavors but kinda good,3,United States,Salem,OR,2016-05-12
+Pinnapple Express,Jester & Judge,Cider,5.6,0,Even better than the one from Ace!  Not too sweet. Just right.,4.75,United States,Stevenson,WA,2016-05-13
+Romantic Chemistry,Dogfish Head Craft Brewery,IPA - American,7.2,40,NA,4,United States,Milton,DE,2016-05-14
+Kiss The Goat,Gigantic Brewing Company,Doppelbock,8,30,NA,3.5,United States,Portland,OR,2016-05-19
+Strong Porter,Culmination Brewery,Porter - Imperial / Double,8,0,Strange aftertaste,3,United States,Portland,OR,2016-05-24
+Cucumber Crush,10 Barrel Brewing Co.,Berliner Weisse,4,17,Excellent sour with tasty cucumber,4.5,United States,Bend,OR,2016-05-26
+Maine Squeeze,10 Barrel Brewing Co.,IPA - American,6,50,Tropical goodness,4.5,United States,Bend,OR,2016-05-26
+Sister's Coffee Porter,10 Barrel Brewing Co.,Porter - Other,6.5,38,NA,4,United States,Bend,OR,2016-05-26
+Coffee Cinnamon Bourbon Abominable (2015),Fremont Brewing,Winter Ale,14,0,Huge coconut and tasty creamy texture.  14% is well worth it.,5,United States,Seattle,WA,2016-05-26
+Blind Pig IPA,Russian River Brewing Company,IPA - American,6.1,70,Citrusy and not quite as smooth as I had hoped,4.25,United States,Santa Rosa,CA,2016-05-26
+Dia De Los Serranos,Green Flash Brewing Company,Stout - Imperial / Double,8.8,45,Not too spicy.  Interesting pepper.,3.5,United States,San Diego,CA,2016-05-26
+Strawberry Blondie,Acoustic Ales Brewing Experiment,Blonde Ale,6,0,Tastes like strawberry shortcake,4.25,United States,San Diego,CA,2016-05-26
+Apple Session Cider,Atlas Cider Company,Cider,5.8,0,NA,4,United States,Bend,OR,2016-05-27
+Piña,10 Barrel Brewing Co.,Fruit Beer,4.7,0,NA,3,United States,Bend,OR,2016-05-27
+Bear Naked Ale,Adirondack Brewery,Red Ale - American Amber / Red,5.2,30,NA,4,United States,Lake George,NY,2016-05-28
+Cherry Raspberry Ale,Brown's Brewing,Fruit Beer,6.5,0,NA,3.5,United States,Troy,NY,2016-05-28
+Back in Black,21st Amendment Brewery,IPA - Black / Cascadian Dark Ale,6.8,65,NA,3.75,United States,San Francisco,CA,2016-05-29
+Barnacle Brown Ale,Barrier Brewing Company,Brown Ale - American,6.2,42,NA,4,United States,Oceanside,NY,2016-05-29
+Hibiscus Cider,Harpoon Brewery,Cider,4.8,0,NA,3.75,United States,Boston,MA,2016-05-29
+Black Chocolate Stout,Brooklyn Brewery,Stout - Russian Imperial,10,51,NA,3.25,United States,Brooklyn,NY,2016-05-29
+Sexy Beats,Rare Form Brewing Company,IPA - American,7.8,0,NA,4,United States,Troy,NY,2016-05-30
+Apricot Wheat,Ithaca Beer Company,Fruit Beer,4.9,0,NA,3.5,United States,Ithaca,NY,2016-05-30
+Green State Lager,Zero Gravity Craft Brewery,Pilsner - Other,4.9,25,Good for a Pilsner,3.5,United States,Burlington,VT,2016-05-31
+Mr. Black,Zero Gravity Craft Brewery,Schwarzbier,4.9,0,Excellent black lager,4.25,United States,Burlington,VT,2016-05-31
+Levitator,Zero Gravity Craft Brewery,Doppelbock,6.7,0,NA,4,United States,Burlington,VT,2016-05-31
+Cote de Champlain,Zero Gravity Craft Brewery,Blonde Ale - Belgian Blonde / Golden,5.7,33,NA,3.75,United States,Burlington,VT,2016-05-31
+B Clause,Zero Gravity Craft Brewery,Pale Ale - American,5.5,0,A little funky with the wild yeast,3,United States,Burlington,VT,2016-05-31
+Conehead,Zero Gravity Craft Brewery,IPA - American,5.7,49,NA,4,United States,Burlington,VT,2016-05-31
+TLA IPA,Zero Gravity Craft Brewery,IPA - American,5.7,75,NA,3.5,United States,Burlington,VT,2016-05-31
+Red Handed,Zero Gravity Craft Brewery,IPA - American,6.8,0,NA,4,United States,Burlington,VT,2016-05-31
+Ostara,Zero Gravity Craft Brewery,IPA - Belgian,8.2,0,NA,3.5,United States,Burlington,VT,2016-05-31
+Narconaut Black IPA,Zero Gravity Craft Brewery,IPA - Black / Cascadian Dark Ale,6.6,70,Tasty CDA almost,4.25,United States,Burlington,VT,2016-05-31
+Unified Press,Citizen Cider,Cider,6.2,0,NA,3.75,United States,Burlington,VT,2016-05-31
+Grapefruit DIPA,Rock Art Brewery,IPA - Imperial / Double,7,0,Not quite as smooth a transition to grapefruit as I like,3.25,United States,Morrisville,VT,2016-05-31
+Sip of Sunshine,Lawson's Finest Liquids,IPA - Imperial / Double,8,65,Tasty!,4.5,United States,Warren,VT,2016-05-31
+Trois Pistoles,Unibroue,Belgian Strong Dark Ale,9,16,Belgian overload,3,Canada,Chambly,QC,2016-05-31
+Little Wolf,Zero Gravity Craft Brewery,Pale Ale - American,4.7,40,Nice hoppiness but pretty smooth too,4,United States,Burlington,VT,2016-06-01
+Downtown Piggy Brown,Prohibition Pig,Brown Ale - American,5,0,Brown roasty goodness!,4.5,United States,Waterbury,VT,2016-06-01
+Lemongrass Luau,Kona Brewing Company,Herbed / Spiced Beer,5.8,0,A little funky with the ginger but a tasty summer beer,3.75,United States,Kailua-Kona,HI,2016-06-04
+Hop Slice,Deschutes Brewery,IPA - Session / India Session Ale,4.5,45,NA,3.25,United States,Bend,OR,2016-06-04
+Lucky 13 (Mondo Large Red Ale),Lagunitas Brewing Company,Red Ale - Imperial / Double,8.8,77,What a red ale should taste like,4.5,United States,Petaluma,CA,2016-06-05
+Superfuzz Blood Orange Pale,Elysian Brewing,Pale Ale - American,5.4,0,NA,3.75,United States,Seattle,WA,2016-06-06
+Dragonfruit Cider,Atlas Cider Company,Cider,6,0,NA,4.25,United States,Bend,OR,2016-06-06

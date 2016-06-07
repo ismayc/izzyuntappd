@@ -1,7 +1,7 @@
 Package: izzyuntappd
 Type: Package
 Title: Datasets on Untappd beer ratings by Chester Ismay
-Version: 0.0.1.0
+Version: 0.0.1.1
 Authors@R: c(
     person("Chester", "Ismay", email = "chester.ismay@gmail.com", role = "cre")
     )
