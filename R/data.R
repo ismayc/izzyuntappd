@@ -11,6 +11,7 @@
 #'     \item{\code{beer_name}} {a character string with name of beer}
 #'     \item{\code{brewery}} {a character string with name of brewery}
 #'     \item{\code{style}} {a character string with style of beer}
+#'     \item{\code{macro_style}} {a character string grouping together of \code{style} entries}
 #'     \item{\code{abv}} {a numeric giving alcohol by volume (when available)}
 #'     \item{\code{ibu}} {an integer giving international bittering units scale value (when available)}
 #'     \item{\code{comment}} {a character string with comment entered by Chester after trying beer (not always available)}

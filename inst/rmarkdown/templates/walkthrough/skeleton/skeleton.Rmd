@@ -1,0 +1,193 @@
+---
+title: "Chester's Beer Ratings"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    code_folding: show
+    code_download: true
+    fig_width: 9
+    fig_height: 6
+---
+
+```{r setup, include=FALSE}
+pkg <- c("dplyr", "ggplot2", "readr",
+  "knitr", "rmarkdown", "devtools", "DT", "plotly")
+
+new.pkg <- pkg[!(pkg %in% installed.packages())]
+
+if(length(new.pkg))
+  install.packages(new.pkg, repos = "http://cran.rstudio.com")
+
+if(!require(izzyuntappd))
+  devtools::install_github("ismayc/izzyuntappd", force = TRUE)
+
+lapply(pkg, library, character.only = TRUE)
+options(width = 95, dplyr.print_max = 1e9)
+```
+
+We begin by loading in the dataset from this package.
+
+```{r load_data}
+data(untappd, package = "izzyuntappd")
+# I've also included the dataset as a CSV file and you can read it in by using
+# untappd <- read_csv(file = "chester_beer_feb15-june16.csv")
+```
+
+One great feature of RStudio is the ability to view dataframes like `untappd` in table form:
+
+```{r eval=FALSE}
+View(untappd)
+```
+
+---
+
+# ABV
+
+## Summary values
+
+We can determine what the mean and median `abv` values are from this data set and also the standard deviation of the `abv` values:
+
+```{r central_tends}
+summary_abv <- untappd %>% summarize(mean_abv = mean(abv), 
+  median_abv = median(abv),
+  sd_abv = sd(abv))
+summary_abv
+kable(summary_abv)
+```
+
+## Plotting
+
+We can also create a plot of this distribution of `abv`:
+
+```{r abv_plot}
+abv_plot <- ggplot(aes(x = abv), data = untappd) +
+  geom_histogram(bins = 20, color = "white")
+abv_plot
+```
+
+To make an interactive plot using a `ggplot2` graphic, we can use the `ggplotly` function in the `plotly` package:
+
+```{r hist_inter}
+ggplotly(abv_plot)
+```
+
+---
+
+# Top styles
+
+If we'd like to see the top number of `macro_style` of beer I've tried, sorted:
+
+```{r n_styles}
+style_count <- untappd %>% count(macro_style)
+datatable(style_count)
+```
+
+<br>
+
+The `datatable` function in the `DT` package provides a nice interface for searching and sorting datasets.
+
+<br><br>
+
+**What is going on here!?** Do I actually like my top `macro_style` as much as these numbers show?  
+
+---
+
+# `dplyr` verbs
+
+## Filtering
+
+Let's focus on only the `macro_style` corresponding to `IPA`.  We will create a new dataframe called `ipas`:
+
+```{r ipas}
+ipas <- untappd %>% filter(macro_style == "IPA")
+```
+
+Look through the dataset again by entering `View(ipas)` into the R console.
+
+---
+
+## Selecting
+
+Let's simplify our dataset a bit to view it more easily.
+
+```{r ipas_small}
+ipas_small <- ipas %>% select(beer_name, style, abv, ibu, rating)
+```
+
+We might be curious to see if `ibu` has a relationship with `rating`:
+
+```{r ibu_rating}
+ggplot(data = ipas_small, aes(x = ibu, y = rating))
+```
+
+What type of plot should we make here?  Do a Google search for the type of plot and `ggplot2` to get some examples, i.e., Google "bargraph ggplot2" if you think it is a bargraph.  **Hint**:  It's not.
+
+It is often better to view datasets in plots by using multivariate thinking.  Another common feature that beer drinkers look for is `abv`.  How does `abv` relate to `ibu` and `rating` for me?
+
+
+
+## Grouping and Summarizing
+
+There are many different styles of beers in the `macro_style` of `IPA`.  How could we use what we know already to determine which style of IPA I rated highest, on average?
+
+## Least favorite brewery state
+
+Now let's go back to the original `untappd` dataset.
+
+- How would we determine how many different states have brewed beers I have had? You've seen a _hacky_ way to do this above.
+
+- Now how do we identify the brewery with the smallest maximum rating?  Chain together multiple commands to get a final answer.
+
+
+
+# Putting it all together
+
+Let's conclude by showing how we can use the `dplyr` functions to summarize/manipulate data and then feed that data into `ggplot2` functions to plot them.
+
+## Porters in the summer?
+
+People like to ask me if I prefer stouts and/or porters better in the winter or in the summer.  Let's use my ratings to address this question.
+
+- We begin by realizing there is a `date` column in the `untappd` dataframe.
+- Let's get a feel for how I've rated all porters and stouts over this time frame
+    * Remember that we need to isolate only the `"Porter"`s and `"Stout"`s in the `macro_style` variable
+
+```{r stouts_porters}
+stouts_porters <- untappd %>% filter(grepl("Porter|Stout", macro_style))
+```
+
+```{r dark_by_day}
+dark_by_day <- ggplot(stouts_porters, aes(x = date, y = rating)) +
+  geom_point(alpha = 0.3)
+ggplotly(dark_by_day)
+```
+
+
+This pretty much addresses our question.  Except for a few bad ones in Spring 2016, it doesn't look like it matters much what time of the year it is.  But let's dig further.  Did I like stouts better or porters better over this time frame?
+
+```{r sp_day}
+ggplot(stouts_porters, aes(x = date, y = rating)) +
+  geom_point(aes(color = macro_style))
+```
+
+This is still a little tricky to see.  Let's focus on the median rating for each day for both porters and stouts.  First we need to compute the median ratings:
+
+```{r sp_median}
+sp_median <- stouts_porters %>% group_by(macro_style, date) %>%
+  summarize(median_rating = median(rating))
+```
+
+Now we will create a line-graph over the time frame and color by `macro_style`:
+
+```{r plot_medians}
+ggplot(sp_median, aes(x = date, y = median_rating, color = macro_style)) +
+    geom_line() +
+  scale_color_manual(values = c("goldenrod", "darkblue"))
+```
+
+It does appear that I prefer porters to stouts in the summer months, stouts to porters in the fall, and it is anybody's guess for the remainder of the year.
+
+---
+
+Play around with the data more to see which kinds of correlations and things stand out to you!

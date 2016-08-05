@@ -9,3 +9,5 @@ untappd <- read_csv(file = "data-raw/chester_beer_feb15-june16.csv")
 devtools::use_data(untappd, overwrite = TRUE)
 write_csv(untappd, 
   path = "inst/rmarkdown/templates/report/skeleton/chester_beer_feb15-june16.csv")
+write_csv(untappd, 
+  path = "inst/rmarkdown/templates/walkthrough/skeleton/chester_beer_feb15-june16.csv")

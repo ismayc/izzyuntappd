@@ -4,10 +4,12 @@ output:
   html_document:
     toc: true
     toc_float: true
+    code_folding: show
+    code_download: true
 ---
 
 ```{r setup, include=FALSE}
-pkg <- c("dplyr", "ggplot2", 
+pkg <- c("dplyr", "ggplot2", "readr",
   "knitr", "rmarkdown", "devtools", "DT")
 
 new.pkg <- pkg[!(pkg %in% installed.packages())]
@@ -27,15 +29,18 @@ We begin by loading in the dataset from this package.
 ```{r load_data}
 data(untappd, package = "izzyuntappd")
 # I've also included the dataset as a CSV file and you can read it in by using
-# untappd <- read.csv(file = "chester_beer_feb15-may16.csv", header = TRUE,
-#     stringsAsFactors = FALSE)
+# untappd <- read_csv(file = "chester_beer_feb15-june16.csv")
 ```
 
-Next we can look at the first few rows of this dataset:
+One great feature of RStudio is the ability to view dataframes like `untappd` in table form:
 
-```{r glance}
-head(untappd)
+```{r eval=FALSE}
+View(untappd)
 ```
+
+# ABV
+
+## Summary values
 
 We can determine what the mean and median `abv` values are from this data set:
 
@@ -43,18 +48,21 @@ We can determine what the mean and median `abv` values are from this data set:
 untappd %>% summarize(mean_abv = mean(abv), median_abv = median(abv))
 ```
 
+## Plotting
+
 We can also create a plot of this distribution of `abv`:
 
 ```{r abv_plot}
-qplot(x = abv, data = untappd, geom = "histogram", bins = 20, color = I("white"))
+ggplot(aes(x = abv), data = untappd) +
+  geom_histogram(bins = 20, color = "white")
 ```
+
+# Top styles
 
 If we'd like to see the top number of `style` of beer I've tried, sorted:
 
 ```{r n_styles}
-style_count <- untappd %>% group_by(style) %>%
-  summarize(count = n()) %>%
-  arrange(desc(count))
+style_count <- untappd %>% count(style)
 datatable(style_count)
 ```
 
