@@ -11,8 +11,8 @@ output:
 ---
 
 ```{r setup, include=FALSE}
-pkg <- c("stats", "ggplot2", "readr",
-  "knitr", "rmarkdown", "devtools", "DT", "plotly", "dplyr")
+pkg <- c("dplyr", "ggplot2", "readr",
+  "knitr", "rmarkdown", "devtools", "DT", "plotly")
 
 new.pkg <- pkg[!(pkg %in% installed.packages())]
 
